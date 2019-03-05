@@ -216,7 +216,7 @@
 	<!-- Transports -->
 	<string name="transport_sledge">짐썰매</string>
 	<string name="transport_cart">손수레</string>
-	<string name="transport_rolling_megalith">거석 굴리기</string>
+	<string name="transport_rolling_megalith">거석 굴림대</string>
 
 	<!-- Misc -->
 	<string name="bank">물길</string>
