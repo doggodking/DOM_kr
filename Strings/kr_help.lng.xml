@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="help">도움말</string>
+	<string name="plants">식물</string>
+	<string name="topics">주제</string>
+	<string name="general">일반</string>
+	<string name="advanced_topics">고급 주제</string>
+	<string name="wild_animals">야생 동물</string>
+	<string name="see_also">참고 사항</string>
+	<string name="entities">개체</string>
+	<string name="requirements">요구 사항</string>
+	<string name="loading_hints">힌트</string>
+	<string name="help_upgrades">업그레이드</string>
+	<string name="defense">방어</string>
+	<string name="help_stats">도표</string>
+	<string name="help_cost">소비</string>
+	<string name="help_main">주요 주제</string>
+	<string name="help_categories">카테고리</string>
+	<string name="help_recurrent_production">반복 생산</string>
+	<string name="help_related_resources">관련 자원</string>
+	<string name="help_production">제작 자원</string>
+	<string name="help_byproducts">제작 자원</string>
+	<string name="help_domestic_variant">사육 변종</string>
+	<string name="help_wild_variant">야생 변종</string>
+	<string name="help_domestication_tech">사육 기술</string>
+	<string name="help_crafted_from">제작 시설</string>
+	<string name="help_built_using">건축 재료</string>	
+	<string name="help_produced_from">생산 시설</string>
+	<string name="help_created_entities">제작 용도</string>
+	<string name="help_produced_resources">생산 자원</string>
+	<string name="help_input_resources">사용 자원</string>
+
+	<string name="hint_0">여름에는 (b)딸기(/b)와 (b)과일(/b)을 모으고 겨울에는 (b)옥포(/b), (b)건어물(/b), 그리고 (b)곡물(/b)과 같은 오래 유지되는 자원을 비축하세요.</string>
+	<string name="hint_1">(b)게임 초기(/b)에 죽이기 힘들고 공격당할 수 있는 (b)성체로 자란 동물(/b)을 목표로 사냥하지 마세요. </string>
+	<string name="hint_2">(b)자원 제한(/b)과 함께 (b)작업 영역(/b)을 사용하여 가능한 한 정착지를 자동화하세요.</string>
+	<string name="hint_3">사람들을 먹여 살릴 (b)인프라(/b)가 없다면 너무 빨리 (b)확장(/b)하지 마세요.</string>
+	<string name="hint_4">(b)겨울(/b)에는 (b)가축(/b)에게 (b)먹이(/b)를 주고 (b)물(/b)을 주어야 합니다. 유지할 수 없다면 너무 많이 보유하길 피하세요.</string>
+	<string name="hint_5">(b)구석기 시대(/b) 사냥꾼 채집 사회에서는 인구가 (b)희박(/b)하여 (b)갈등(/b)이 없었습니다. (b)신석기 시대 이후(/b)부터는 (b)전투(/b)에 대비할 필요가 있습니다.</string>
+	<string name="hint_6">(b)초기 시대(/b)에는 (b)대규모 인구(/b)를 확보하기 (b)어렵습니다(/b). 농사 및 다른 기술을 통해서만 대규모 정착지를 유지할 수 있습니다.</string>
+	<string name="hint_7">(b)겨울(/b)이 오면 (b)부패하지 않는 음식(/b)을 창고에 많이 보관하지 않으면, 기아가 심각한 문제가 됩니다.</string>
+	<string name="hint_8">매번 사람들이 장착지에서 강 또는 호수에서 마시게 하는 것 보다, 누군가가 (b)우물(/b)에 물을 모으고 저장하는 것이 (b)효울적(/b)입니다.</string>
+	<string name="hint_9">옆에 있는 (b)+(/b) 버튼을 클릭하여 화면 상단의 패널을 (b)커스트마이징(/b)할 수 있습니다.</string>	
+	<string name="hint_10">(b)pan(/b) 그리고 (b)rotate(/b) 키를 동시에 누르면 (b)카메라 시점(/b)을 중심으로 회전합니다.</string>
+	<string name="hint_11">(b)표준(/b)난이도에서는 침입자의 (b)기술(/b)이 현재 시대 수준에 (b)필적(/b)하므로, 너무 빨리 발전하기 전에 주의하세요.</string>
+	<string name="hint_12">(b)하드코어(/b) 난이도에서는 공격자의 (b)기술(/b)이 (b)자신의 페이스(/b)로 발전하기 때문에, 시대 수준에 도달하는 것이 너무 오래 걸려서는 안됩니다.</string>
+	<string name="hint_13">당신은 사람들을 선택하고 (b)구조물(/b)에 (b)마우스 오른쪽 버튼(/b)을 (b)클릭(/b)하면, (b)휴식(/b)이나 (b)대피(/b)를 명령할 수 있습니다.</string>
+	<string name="hint_14">사람들이 (b)상처(/b)를 입었을 때, 그들은 죽을 수도 있는 (b)전염병(/b)에 걸릴 수도 있습니다.</string>
+	<string name="hint_15">당신은 사람들을 (b)선택(/b)하고 지형이나 물건을 (b)오른쪽 클릭(/b)하여 (b)명령(/b)을 내릴 수 있습니다.</string>
+	<string name="hint_16">당신은 사람들을 선택하고 지형을 (b)오른쪽 두 번 클릭(/b)하여, 그들을 그곳으로 (b)질주(/b)하도록 (b)명령(/b)할 수 있습니다.</string>
+	<string name="hint_17">(b)F9(/b)키를 눌러 (b)빠르게 저장(/b)할 수 있습니다.</string>
+	<string name="hint_18">식물, 생명체나 구조물을 (b)더블 클릭(/b)하면 (b)유사한 개체(/b)를 선택합니다.</string>
+	<string name="hint_19">(camera_center_town_key) 키를 눌러 카메라 시점을 마을로 이동할 수 있습니다.</string>
+	<string name="hint_20">(hunter_selection_key) 키와 (fighter_selection_key) 키를 누른 채로 마우스를 끌어서 (b)사냥(/b)이나 (b)전투(/b) 도구가 있는 사람만 선택할 수 있습니다.</string>
+	<string name="hint_21">(b)원시 비전(/b) 모드를 사용하여 (b)작업 영역(/b)을 강조 표시할 수 있습니다.</string>
+
+
+	<string name="help_main_title">Dawn of Man</string>
+	<string name="help_main_description">
+(b)Dawn of Man(/b)에서, 당신에게 고대 인류, 생존을 위한 투쟁에서의 정착을 안내합니다.
+당신은 (b)사냥(/b), (b)수집(/b), (b)도구 제작(/b), (b)전투(/b), 새로운 (b)기술(/b) 연구 그리고 환경이 던진 도전에 직면해야 할 것입니다.
+</string>
+
+  <!-- === Topics === -->
+
+	<string name="help_hunting_title">수렵</string>
+	<string name="help_hunting_description">
+전문화된 도구를 사용하면, 사람들이 동물을 사냥해서 (b)음식(/b) 그리고 (b)자원(/b)을 얻을 수 있습니다.
+사냥을 시작하려면 환경에서 동물을 선택한 다음 (b)사냥 버튼(/b)을 클릭하십시오. 사냥감의 난이도와 도구의 가용성에 따라, 특정 수의 사람들이 동물을 추적할 것입니다. 
+동물들은 사냥할 때 각자 다른 방식으로 반응합니다. 어떤 동물은  (b)도망(/b)치려고 하며, 다른 동물은 새끼들을 보호하거나 (b)보복(/b)하려고 합니다.
+성인 한 명을 선택하고 대상 동물을 오른쪽 클릭하여 사냥을 보다 세부적으로 제어할 수 있습니다.
+	</string>	
+	
+	<string name="help_farming_title">농업</string>
+	<string name="help_farming_description">
+농업은 (b)음식(/b) 생산을 자동화하고, 더 많은 사람들을 정착시키는 데 도움이 됩니다.
+다양한 (b)작물(/b)을 심고, 사람들에게 식량을 줄 수 있습니다. 작물은 보통 겨울이나 봄에 심어져 여름 또는 가을에 수확합니다.
+질병은 단일 종의 모든 개체를 단번에 휩쓸기 때문에 (b)다양한(/b) 농작물을 심는 것이 중요합니다.
+수확의 효율을 극대화하기 위해 주위에 충분한 (b)낫(/b)이 있는지 확인하세요.
+모든 작물 중 (b)곡물(/b)은 아마도 가장 중요한 자원인일 것인데, (b)곡식(/b)의 원재료일 뿐만 아니라 건축 자재와 동물 사료로서도 필수적인 자원인 (b)짚(/b)의 공급원이기도 합니다.
+	</string>
+			
+	<string name="help_defense_title">방어</string>
+	<string name="help_defense_description">
+생존의 열쇠 중 하나는 적대적인 (b)동물(/b)과 (b)침략자(/b)에 대한 당신의 정착지를 방어하는 것입니다.
+(b)석기 시대(/b) 동안 주요 위협은 야생 동물과 산발적인 침략자들의 무리입니다. 그들로부터 방어하기에 충분한 무기와 사람들이 있는지 확인하십시오.
+(b)철기 시대(/b)에서는 상황이 더욱 심각해질 것이며, 공격자의 큰 무리가 당신의 정착지를 파괴하려고 할 것입니다. (b)요새화(/b)와 (b)수비 구조물(/b)을 건설하는 것이 좋습니다.
+언제든 당신이 방어 패널에서 (b)경보(/b)를 발동한다면, 사람들을 정착지로 피난시키고 사용 가능한 최고의 무기를 손에 넣고 탑을 장악할 것입니다.
+	</string>	
+	
+	<string name="help_human_status_title">인간 상태</string>
+	<string name="help_human_status_description">
+인간은 (b)건강(/b), (b)영양(/b), (b)수분(/b), (b)휴식(/b), (b)온도(/b), (b)기력(/b) 그리고 (b)의욕(/b) 상태 게이지를 보여줍니다.
+상태 게이지가 낮을 때 그 사람 위에 (b)경고 표시(/b)가 나타나서 무엇이 잘못됐는지 부각시켜 줍니다.
+게이지가 낮으면 당신의 사람들의 작업 효율이 떨어지고 결국은 죽을 것입니다. 당신은 사람들의 인간 상태를 주시하고 그들의 요구가 충족되는지 확인할 필요가 있습니다.
+	</string>	
+	
+	<string name="help_health_title">건강</string>	
+	<string name="help_health_description">
+이것은 사람의 신체 건강을 측정한 것입니다. 너무 낮게 되면 그 사람은 죽습니다.
+다른 상태 게이지가 낮거나 인간이 (b)질병(/b)에 걸리지 않는 한, 정상적인 상황에서는 (b)건강(/b)은 천천히 회복됩니다.
+    </string>	
+	
+	<string name="help_nutrition_title">영양</string>	
+	<string name="help_nutrition_description">
+이것은 사람에게 얼마나 잘 먹고 있는지를 측정합니다. 이것이 떨어지게 되면, (b)건강(/b) 수차가 감소하기 시작하고 인간은 결국 죽을 것입니다.
+(b)영양(/b)은 다양한 출처에서 얻을 수 있는 음식을 섭취함으로써 회복될 수 있습니다.
+    </string>		
+	
+	<string name="help_hydration_title">수분</string>	
+	<string name="help_hydration_description">
+이것은 사람이 얼마나 목이 마른지를 측정한 것입니다. 이것이 떨어지게 되면, (b)건강(/b) 수치가 감소하기 시작하고 인간은 결국 죽을 것입니다.
+(b)수분은(/b) (b)강(/b), (b)호수(/b), (b)우물(/b), 또는 (b)저장된 물(/b)을 마시는 것으로 회복할 수 있습니다.
+    </string>	
+	
+	<string name="help_rest_title">휴식</string>	
+	<string name="help_rest_description">
+이것은 사람이 얼마나 피곤한지를 측정합니다. 그것이 낮아지게 되면 인간은 작업의 효율이 떨어집니다.
+(b)휴식은(/b) (b)천막(/b), (b)오두막(/b) 또는 (b)원형집(/b)에서 자면 회복할 수 있습니다.
+    </string>
+	
+	<string name="help_temperature_title">온도</string>	
+	<string name="help_temperature_description">
+이것은 사람의 체온을 의미합니다. 이것이 떨어지게 되면, (b)건강(/b) 수치가 감소하기 시작하고 인간은 결국 죽을 것입니다.
+따뜻해지려면 인간은 두꺼운 옷을 입거나 (b)천막(/b), (b)오두막(/b) 또는 (b)원형집(/b) 안에서 지내야 합니다.
+    </string>		
+	
+	<string name="help_stamina_title">기력</string>	
+	<string name="help_stamina_description">
+이것은 사람이 얼마나 호흡할 수 있는지를 나타내는 척도입니다. 이것이 낮아지면 인간은 뛸 수 없습니다. 전투나 사냥을 할 때 중요한 요소입니다.
+(b)기력(/b)는 쉬고 있을 때 자동으로 회복됩니다.
+    </string>		
+	
+	<string name="help_morale_title">의욕</string>	
+	<string name="help_morale_description">
+이것은 사람의 심리적 건강을 의미합니다. 의욕이 떨어지게 되면 (b)낮은 작업 효율(/b)을 보입니다. 따라서 의욕을 높게 유지하는 것이 정착지의 성공에 직결됩니다.
+(b)기아(/b), (b)죽음(/b), 또는  농사 또는 무거운 짐을 운반하는 것과 같은 (b)지루한 작업(/b)으로 의욕이 내려갈 수 있습니다.
+의욕은 (b)해골 장대(/b), (b)토템(/b), (b)선돌(/b), (b)고인돌(/b) 또는 (b)스톤 서클(/b)과 같은 구조물을 방문하면 의욕이 증가합니다. 보다 발전된 시대의 이와 같은 의욕을 올려주는 구조물은 더 많은 의욕을 회복합니다. 
+한 사람이 같은 종류의 구조물에서 다시 회복하기까지 일정 시간을 기다려야 하므로 이런 것들을 다양하게 건축하는 것이 중요합니다.
+게임 중반에 (b)맥주(/b)를 생산할 수 있는데, 많은 의욕을 회복하지만, 곡식부터 생산하여 만들 필요가 있습니다. 
+	</string>			
+	
+  <string name="help_knowledge_title">지식</string>
+  <string name="help_knowledge_description">
+다양한 목표를 달성하면 (b)지식 포인트(/b)를 얻을 수 있습니다.
+• 더 많은 인구에 도달하기
+• 다양한 종류의 구조물 짓기
+• 다양한 종류의 동물 사냥
+• 다양한 자원 수집
+• 침략자 살해
+• 한 시대의 잠금 해제
+• 더 오래 살아남기
+이 포인트를 사용하면 새로운 (b)기술(/b)들을 발굴할 수 있는데, 이것은 당신이 정착지를 발전시키고 더 많은 사람들을 살 수 있게 만들어 줍니다.
+  </string>
+	
+	<string name="help_crafting_title">공예</string>
+  <string name="help_crafting_description">
+당신의 사람들은 정착지의 구조물에서 다양한 자원을 제작할 수 있습니다.
+자원을 제작하려면 (b)공예소 구조물(/b)을 선택하고 레시피를 클릭합니다. 만약 자원이 확보된다면, 당신의 사람 중 한 명이 그것을 제작할 것입니다.
+조리법을 마우스 오른쪽 단추로 클릭하여 (b)연송 생산(/b)을 전환할 수 있습니다. 활성화되면 (b)자원 한도(/b) 에 도달 할 때까지 자동으로 자원을 생산합니다.
+  </string>
+	
+	<string name="help_expanding_title">확장</string>
+  <string name="help_expanding_description">
+(b)복지(/b)가 충분하고 정착할 여력이 충분하면, 새로운 사람이 와서 합류하고, 여자들이 새로운 아이를 (b)출산(/b)합니다.
+(b)천막(/b), (b)오두막(/b) 또는 (b)원형집(/b)을 건설하면 주택 가용인원을 늘릴 수 있습니다.
+이주자의 도착 빈도는 당신의 (b)복지(/b)와 (b)평판(/b)에 달려 있습니다.
+당신의 사람들의 출산율 또한 (b)복지(/b) 수준에 비례합니다.
+  </string>	
+  
+  <string name="help_resource_limits_title">자원 한도</string>
+	<string name="help_resource_limits_description">
+자원 한도는 정착지의 자동화 작업을 통제하는데 필요한 방법입니다.
+(b)자원 한도(/b)를 설정한 다음, 연속적인 생산을 위한 레시피를 표시하거나 작업 영역을 배치할 수 있으며, 한계점에 도달할 때까지 해당 자원을 계속 수집하거나 생산할 수 있습니다. 
+자원을 소비하고 그 양이 다시 한도 이하로 떨어지면, 당신의 사람들은 다시 일터로 돌아갈 것입니다.
+다음과 같은 3가지 유형의 값으로 제한을 설정할 수 있습니다.
+• (b)무한(/b) : 이것은 생산에 제한이 없으며 가용한 재료가 있는 한 계속 됩니다.
+• (b)고정 수량(/b) : 특정 개수 단위로 정의한 한도를 설정합니다. 특정 자원의 단위 수가 값에 도달하면 생산이 중단됩니다.
+• (b)인구 비율(/b) : 현재의 인구수의 백분율로 정의된 한도를 설정합니다. 백분율 제한을 설정하는 것은 인구 변화에 따라 한도를 지속적으로 조정하지 않아도 되는 데 유용합니다.
+한도는 작업 영역 및 자동 제작에만 해당되므로, 직접 지시한 경우에는 한계를 무시하고 작업합니다.
+	</string>
+	
+  <string name="help_resource_decay_title">자원 부패</string>
+  <string name="help_resource_decay_description">
+대부분의 자원과 도구는 시간이 지남에 따라 (b)부패(/b)되며, 도구를 사용할 때마다 부패도 가속화 됩니다 .
+자원들은 구조물 안에 저장되고, 천천히 부패됩니다. 특히 음식은 이 문제에 있어 중요합니다. 겨울을 안전하게 보내느냐 아니면 집단 아사하느냐의 차이가 이를 의미하기 때문입니다.
+과일, 베리류 또는 생 고기와 생선 같은 음식들은 (b)아주 빠른 부패(/b)가 진행됩니다. 
+곡식, 말린 고기, 건어물과 같은 음식은 (b)아주 느리게(/b) 진행됩니다.
+사람들은 더 오래가는 음식을 계속 보존하고, 부패가 빨리 진행되는 음식부터 먹으려고 노력합니다.
+	</string>	
+	
+  <string name="help_workload_title">작업량</string>
+  <string name="help_workload_description">
+The (b)workload(/b) of your settlement is the ratio between the amount of tasks your people are trying to do, and the total amount of people.
+If you ask your people to do too many things at once, they will be overworked, and will have trouble prioritizing the right tasks.
+It is your job do make sure the amount of work to do is reasonable and proportional to the manpower available.
+You can use the (b)tasks(/b) and (b)activity panels(/b) to see what your people are up to and how many of them are available to work.
+	</string>
+	
+  <string name="help_human_roles_title">Human Roles</string>
+  <string name="help_human_roles_description">
+Depending on the age of your population they are able to perform different tasks:
+(b)Children(/b). They can carry light resources around, one at a time, and do basic tasks that don't involve the usage of tools.
+(b)Adults(/b). They are the most efficient of your people, they can carry a larger number of resources and perform any task.
+(b)Elderly(/b). They can perform the same tasks as adults, but have less health and can carry less resources.
+	</string>
+  
+  <string name="help_work_area_title">Work Areas</string>
+  <string name="help_work_area_description">
+Setting (b)work areas(/b) allows you to automate many of the (b)collection(/b) and (b)mining(/b) tasks in your settlement.
+After you place an area for a given resource, people will keep collecting the resource within that area until the (b)resource limit(/b) is reached.
+By default only one person at a time will work in a particular area, but you can increase their number in the selection panel.
+  </string>
+	
+  <string name="help_foods_title">Foods</string>
+  <string name="help_foods_description">
+There are are different (b)types of food(/b) that your people can consume, it is important to understand the differences between them.
+(b)Raw Fish(/b). Available all year long, every river or lake bank contains a certain amount of fish, once you exhaust it you need to wait for it to replenish. You can use the (b)Food Dryer(/b) to convert (b)Raw Fish(/b) to (b)Dry Fish(/b), which lasts a lot longer.
+(b)Raw Meat(/b). You can hunt animals for their meat all year long, but in winter there will be a lot less of them around. You can use the (b)Food Dryer(/b) to convert (b)Raw Meat(/b) to (b)Cured Meat(/b), which lasts a lot longer.
+(b)Berries(/b), (b)Fruit(/b) and (b)Nuts(/b). Available mostly in summer only, but some also in autumn. They don't last for long, but they are a good food to eat seasonally, so you can save non perishable foods for the winter.
+(b)Pulses(/b). Available in summer, they require the right harvesting tools and technology to be processed. They last for a reasonable amount of time.
+(b)Grain(/b). It lasts for an extremely long time, but requires processing to be eaten: First needs to be converted into (b)Flour(/b), then into (b)Bread(/b). This makes it quite labor intensive.
+People will try to eat the foods that are about to perish first.
+	</string>
+	
+  <string name="help_welfare_title">Welfare</string>
+  <string name="help_welfare_description">
+A measure of how well your settlement is doing.
+Depends on your people's (b)stats(/b), (b)clothing(/b) and also on the (b)food surplus(/b).
+If welfare is high (b)migrants(/b) will come to your settlement, the higher it is the more frequently they will arrive.
+Welfare also affects the (b)birth rate(/b) in your settlement.
+	</string>	
+	
+  <string name="help_prestige_title">Prestige</string>
+  <string name="help_prestige_description">
+A measure of how well known your settlement is.
+Depends on your (b)population(/b), (b)buildings(/b) and (b)technology(/b).
+If prestige is high (b)migrants(/b) and (b)traders(/b) will come more frequently to your settlement.
+A good way to increase your settlement's (b)prestige(/b) is by constructing (b)megalithic(/b) structures.
+	</string>		
+
+	<!-- Conditions here refers to diseases or infections-->
+  <string name="help_conditions_title">Conditions</string>
+  <string name="help_conditions_description">
+Humans can be affected by conditions such as (b)diseases(/b) or (b)infections(/b).
+These are triggered from (b)going hungry(/b) repeatedly, or (b)sustaining injuries(/b).
+When a person has a condition it's health will decrease for a given amount of time, if it reaches zero the person will die.
+Survival chances are partly random and party based on how healthy the individual is.
+	</string>
+	
+	<string name="help_controls_title">Controls</string>	
+	<string name="help_controls_description">
+(b)CAMERA(/b)
+
+Move: (camera_move_keys)
+Rotate: (camera_rotate_keys)
+Zoom: (b)Mouse Wheel(/b)
+
+
+(b)SELECTION(/b)
+
+Select entity: (b)Left mouse click(/b)
+Select nearby similar entities: (b)Left mouse double click(/b)
+Add/remove to/from selection:(b) Shift + Left mouse click(/b)
+
+Select multiple entities: (b)Drag left mouse(/b)
+Select hunters only: (b)Drag left mouse(/b) while holding the (hunter_selection_key) key
+Select fighters only: (b)Drag left mouse(/b) while holding the (fighter_selection_key) key
+
+Give command: (b)Right mouse click(/b)
+Give command to sprint: (b)Right double click(/b)
+
+
+(b)MANAGEMENT(/b)
+
+Quick Save: (b)F9(/b)
+Main Menu: (b)F10(/b)
+
+
+(b)KEY BINDINGS(/b)
+
+	</string>
+	
+	<string name="help_customizable_panels_title">Customizable Panels</string>	
+	<string name="help_customizable_panels_description">
+By pressing the (b)+(/b) buttons on the top part of the screen, you can (b)customize the info panels(/b).
+You can get the UI to display the most (b)relevant information(/b) depending on your current situation.
+	</string>
+	
+	<string name="help_transport_title">Transportation</string>	
+	<string name="help_transport_description">
+(b)Transports(/b) will greatly increase the efficiency of your settlement.
+Some resources, like (b)Logs(/b), (b)Stone(/b), (b)Copper Ore(/b), (b)Tin Ore(/b) or (b)Iron Ore(/b) are heavy and difficult to carry around.
+Only adults can transport these, at a very slow speed, one at a time, and with a penalty to morale.
+(b)Sledges(/b) and (b)Carts(/b) solve this problem, they allow you to transport several (b)heavy resources(/b) at a time a lot more efficiently.
+	</string>
+	
+	<string name="help_fuel_title">Fuel</string>	
+	<string name="help_fuel_description">
+In order to (b)cook food(/b) and stay warm you need to fuel your (b)Hearths(/b), (b)Huts(/b), (b)Roundhouses(/b) and (b)Ovens(/b).
+You can use (b)Sticks(/b) or (b)Logs(/b) for this purpose. Your people will automatically refuel all structures unless you disable it in each structure.
+	</string>
+	
+  <!-- === Main categories === -->
+  
+	<string name="help_structures_title">Structures</string>
+	<string name="help_structures_description">
+You can build many different structures in your settlement. Initially only a few are available, but you will unlock many more as the game progresses.</string>
+	
+	<string name="help_resources_title">Resources</string>
+	<string name="help_resources_description">
+You will need to manage a variety of Resources to keep your settlement running.
+Most resources will decay and eventually become unusable, so you will need to continuously produce them.
+	</string>
+	
+	<string name="help_techs_title">Techs</string>
+	<string name="help_techs_description">
+Techs allow you to produce (b)more resources(/b), build (b)new structures(/b), and (b)move forward(/b) through the ages.
+To research and unlock new techs, you need to spend knowledge points in the tech panel.
+You earn (b)knowledge points(/b) when doing actions such as hunting animals, gathering resources, or achieving higher populations.
+You can only unlock a Tech if you've previously unlocked it's (b)prerequisite techs(/b) and the (b)era(/b) it belongs to.
+To unlock a new Era you need to unlock it's Era Tech, which requires twice as many Knowledge points to unlock.
+    </string>
+	
+	<string name="help_animals_title">Animals</string>
+	<string name="help_animals_description">	
+Animals are the source of many key goods, such as (b)Raw Meat(/b), (b)Bones(/b), or (b)Raw Skins(/b). 
+In (b)winter(/b) most animals will hibernate or migrate to warmer climates, so there will be less of them around.
+Once you research the right domestication techs, you can capture young animals in order to breed them yourself.
+	</string>
+
+	<string name="help_transports_title">Transports</string>
+	<string name="help_transports_description">
+Transports allow people to (b)carry resources(/b) much faster than they would otherwise do. Specialized transports are also required to move (b)Megaliths(/b).
+	</string>
+	
+	
+  <!-- === STRUCTURES: categories === -->
+  
+	<string name="help_buildable_category_residence_description">Structures that provide shelter for people or animals.</string>
+	<string name="help_buildable_category_storage_description">Structures to store resources.</string>
+	<string name="help_buildable_category_production_description">Structures to process resources.</string>
+	<string name="help_buildable_category_defensive_description">Structures to help protect your settlement against (b)raiders(/b) or dangerous (b)predators(/b).</string>
+	<string name="help_buildable_category_metallurgy_description">Structures for mining and processing metals.</string>
+	<string name="help_buildable_category_spiritual_description">
+Structures that improve your people's (b)Morale(/b).
+When low on (b)Morale(/b), your people will visit a spiritual structure in order to recover it. Note that a person can not use the same type of structure too often, so it is important to build variety of these.
+	</string>
+	<string name="help_buildable_category_transport_description">Structures that improve transport efficiency.</string>
+	
+  <!-- === Structures === -->
+
+	<!-- === Residence === -->
+	
+	<string name="tent_short_description">A basic shelter</string>
+	<string name="tent_help_description">
+The earliest and most basic accommodation available, people can (b)rest(/b) and (b)shelter(/b) from the cold in it.
+It deteriorates quickly and needs periodic maintenance.
+It can be built from the (b)Paleolithic(/b).
+	</string>
+	
+	<string name="hut_short_description">A hut with a thatched roof</string>
+	<string name="hut_help_description">
+A construction made out of (b)Mud(/b) with a thatched (b)Straw(/b) roof, people can (b)rest(/b), (b)shelter(/b) and (b)cook(/b) in it.
+It is more durable than a (b)Tent(/b) and can house more people.
+It require the (b)Thatching(/b) tech in order to be built.
+	</string> 
+
+	<string name="roundhouse_short_description">A circular stone house</string>
+	<string name="roundhouse_help_description">
+A construction made of (b)Stone(/b) with a thatched (b)Straw(/b) roof, people can (b)rest(/b), (b)shelter(/b) and (b)cook(/b) in it.
+It is more durable than a (b)Hut(/b) and can house more people.
+It requires the (b)Masonry(/b) tech in order to be built.
+	</string>
+	
+	<string name="stables_short_description">A place to keep domestic animals</string>
+	<string name="stables_help_description">
+A place for (b)domestic animals(/b) to (b)shelter(/b) in winter and be fed and watered.
+It needs periodic maintenance.
+	</string>
+	
+	<!-- === Storage === -->
+	
+	<string name="storage_tent_short_description">A basic storage structure</string>
+	<string name="storage_tent_help_description">
+A large tent built for storing and (b)preserving resources(/b) for longer.
+It deteriorates quickly and needs periodic maintenance.
+It can be built from the (b)Paleolithic(/b).
+	</string>
+
+	<string name="wood_pile_short_description">A place to store Sticks and Logs</string>
+	<string name="wood_pile_help_description">
+A place to stack (b)Sticks(/b) or (b)Logs(/b), rather than using residence or other storage structures, which wastes valuable space.
+	</string>
+	
+	<string name="haystack_short_description">A place to store Straw</string>
+	<string name="haystack_help_description">
+A place to store (b)Straw(/b), rather than using residence or other storage structures, which wastes valuable space.
+	</string>
+	
+	<string name="storage_hut_short_description">A hut to store and preserve resources</string>
+	<string name="storage_hut_help_description">
+A large construction made out of (b)Mud(/b) with a thatched (b)Straw(/b) roof, where resources can be stored and preserved for longer.
+It is more durable than a (b)Storage Tent(/b) and can store more resources for longer.
+Requires the (b)Thatching(/b) tech in order to be built.
+	</string>
+	
+	<string name="granary_short_description">A structure to preserve food</string>
+	<string name="granary_help_description">
+A raised hut, purpose built to keep food dry and preserved for (b)as long as possible(/b).  
+Granaries are reasonably durable, but they need repairing from time to time.
+Requires the (b)Thatching(/b) tech in order to be built.
+	</string>
+	
+	<string name="rock_pile_short_description">A place to store Flint, Stone or Ores</string>
+	<string name="rock_pile_help_description">
+A place to store (b)Flint(/b), (b)Stone(/b) or (b)ores(/b), rather than using residence or other storage structures, which wastes valuable space.
+	</string>
+
+	<string name="warehouse_short_description">A stone house to store and preserve resources</string>
+	<string name="warehouse_help_description">
+A large construction made out of (b)Stone(/b) with a thatched (b)Straw(/b) roof, where resources can be stored and preserved for longer.
+It is more durable than a (b)Storage Hut(/b) and can store more resources for longer.
+Requires the (b)Masonry(/b) tech in order to be built.
+	</string>	
+	
+	<!-- === Production === -->
+	
+	<string name="hearth_short_description">A place to cook, make bread and socialize</string>
+	<string name="hearth_help_description">
+A common place where to cook food and make bread.
+	</string>	
+	
+	<string name="crafter_short_description">A place to create tools and clothing</string>
+	<string name="crafter_help_description">
+The Crafter is the main production structure in the (b)Stone Age(/b).
+In it your people can create all the (b)tools(/b) and (b)clothing(/b) they will need in the early eras.
+It is a good idea to use (b)automated production(/b) (by right clicking on an item) and (b)resource limits(/b) in order to avoid to have to manually craft tools every time you need them.
+	</string>
+	
+	<string name="skins_dryer_short_description">A place to dry skins</string>
+	<string name="skins_dryer_help_description">
+A structure where your people will transform (b)Raw Skins(/b) into (b)Dry Skins(/b), that are more durable and usable.
+	</string>
+	
+	<string name="food_dryer_short_description">A place to dry food</string>
+	<string name="food_dryer_help_description">
+A structure where (b)Raw Meat(/b) and (b)Fish(/b) can be processed into (b)Cured Meat(/b) and (b)Dry Fish(/b).
+	</string>
+
+	<string name="mortar_short_description">A rock to crush Grain into Flour</string>
+	<string name="mortar_help_description">
+A rock to crush (b)Grain(/b) into (b)Flour(/b). This is quite a labor intensive process. 
+	</string>
+	
+	<string name="tanner_short_description">A place to make Leather from Raw Skins</string>
+	<string name="tanner_help_description">
+A place where (b)Raw Skins(/b) can be treated with (b)Tannin(/b) in order to make (b)Leather(/b).
+	</string>
+
+	<string name="well_short_description">A hole in the ground to extract water</string>
+	<string name="well_help_description">
+Wells provide settlements with a steady source of (b)Water(/b), they can be placed within the settlement's walls in order to avoid people having to go to the nearest river or lake.
+	</string>
+	
+	<string name="flint_mine_short_description">An underground structure to increase Flint extraction</string>
+	<string name="flint_mine_help_description">
+(b)Increases(/b) the amount of (b)Flint(/b) that can be extracted from a deposit.
+	</string>
+	
+	<string name="weaver_short_description">A place to make cloth</string>
+	<string name="weaver_help_description">
+A place where (b)Linen(/b) and (b)Wool(/b) are woven to create cloth, that can then be used to make outfits.
+	</string>
+
+	<string name="outfitter_short_description">A place to create clothing</string>
+	<string name="outfitter_help_description">
+A place where outfits are made from (b)Linen Cloth(/b) and (b)Wool Cloth(/b).
+	</string>	
+
+	<string name="brewery_short_description">A place to brew Beer</string>
+	<string name="brewery_help_description">
+A facility where your people can make (b)Beer(/b) from (b)Grain(/b) and (b)Water(/b).
+(b)Beer(/b) increases morale in your settlement.
+	</string>
+
+	<string name="watermill_short_description">A place to crush grain using hydropower</string>
+	<string name="watermill_help_description">
+A place where to efficiently crush large quantities of (b)Grain(/b) into (b)Flour(/b) using hydropower.
+	</string>
+
+	<string name="oven_short_description">A communal oven to bake Bread in large quantities</string>
+	<string name="oven_help_description">
+A place where to efficiently bake large quantities of (b)Bread(/b).
+	</string>
+	
+	<string name="workshop_short_description">A place to make miscellaneous tools</string>
+	<string name="workshop_help_description">
+A place to make tools from the (b)Copper Age(/b) onwards.
+This structure in combination with the (b)Metalsmith(/b) or (b)Blacksmith(/b) serves as replacement for the (b)Crafter(/b).
+	</string>	
+	
+	<!-- === Metallurgy === -->
+		
+	<string name="copper_mine_short_description">An underground structure to increase Copper Ore extraction</string>
+	<string name="copper_mine_help_description">
+An underground excavation that (b)increases(/b) the amount of (b)Copper Ore(/b) that can be extracted from a deposit.
+	</string>
+
+	<string name="tin_mine_short_description">An underground structure to increase Tin Ore extraction</string>
+	<string name="tin_mine_help_description">
+An underground excavation that (b)increases(/b) the amount of (b)Tin Ore(/b) that can be extracted from a deposit.
+	</string>
+	
+	<string name="iron_mine_short_description">An underground structure to increase Iron Ore extraction</string>
+	<string name="iron_mine_help_description">
+An underground excavation that (b)increases(/b) the amount of (b)Iron Ore(/b) that can be extracted from a deposit.    
+	</string>	
+	
+	<string name="charcoal_pit_short_description">A place to make Charcoal from wood</string>
+	<string name="charcoal_pit_help_description">
+A place to make (b)Charcoal(/b) from wood.
+(b)Charcoal(/b) is then used in the furnaces to smelt ores into metals.
+	</string>
+
+	<string name="pit_furnace_short_description">A place to smelt Copper and Tin Ores into Copper and Bronze</string>
+	<string name="pit_furnace_help_description">
+A basic furnace where (b)Charcoal(/b) is used in order to attain the high temperatures required to smelt (b)Copper Ore(/b) and (b)Tin Ore(/b) into (b)Copper(/b) and (b)Bronze(/b).
+	</string>
+	
+	<string name="metalsmith_short_description">A place to make Copper and Bronze tools</string>
+	<string name="metalsmith_help_description">
+A place to create (b)Copper(/b) and (b)Bronze(/b) tools and weapons.
+Note that only one person can work in it at a time, so you will usually need a few of these.
+	</string>
+
+	<string name="bloomery_short_description">A place to smelt Iron Ore into Iron and Steel</string>
+	<string name="bloomery_help_description">
+An advanced furnace, where very high temperatures can be reached in order to smelt (b)Iron Ore(/b) into (b)Iron(/b) and (b)Steel(/b).
+	</string>
+
+	<string name="blacksmith_short_description">A place to make Iron and Steel tools</string>
+	<string name="blacksmith_help_description">
+A place to create (b)Iron(/b) and (b)Steel(/b) tools and weapons.
+Note that only one person can work in it at a time, so you will usually need a few of these.
+	</string>
+
+	<!-- === Defensive === -->
+
+	<string name="palisade_short_description">Simple wooden structure to protect the settlement</string>
+	<string name="palisade_help_description">
+Simple wooden structure to protect the settlement. It's made from (b)Logs(/b) and offers a reasonable level of protection.
+	</string>
+
+	<string name="gate_short_description">Simple wooden gate, to control access to your settlement</string>
+	<string name="gate_help_description">
+A simple wooden gate, that can resist attacks for a reasonable amount of time.
+	</string>
+
+	<string name="watchtower_short_description">Basic tower, from which to shoot at enemies</string>
+	<string name="watchtower_help_description">
+The most basic defense tower. Up to 2 people can shelter in it and (b)shoot(/b) at incoming enemies.
+They require periodic (b)repairs(/b) and maintenance.
+	</string>
+
+	<string name="wall_short_description">A sturdy Stone wall to protect the settlement</string>
+	<string name="wall_help_description">
+A durable (b)Stone(/b) wall, that offers the highest level of protection available against intruders.
+	</string>
+
+	<string name="reinforced_gate_short_description">A metal reinforced gate</string>
+	<string name="reinforced_gate_help_description">
+A gate (b)reinforced(/b) with (b)metal(/b) in order to increase its resistance against attacks.
+	</string>
+
+	<string name="guard_tower_short_description">A reinforced defense tower</string>
+	<string name="guard_tower_help_description">
+A reinforced defense tower. Up to 3 people can shelter in it and shoot at incoming enemies. 
+Guard Towers require periodic repairs and maintenance.
+	</string>
+	
+	<!-- === Spiritual === -->
+
+	<string name="skull_pole_short_description">A structure in memory of the dead</string>
+	<string name="skull_pole_help_description">
+A structure in memory of the dead that your people can visit in order to recover (b)Morale(/b).
+	</string>
+
+	<string name="totem_short_description">A structure to honor nature</string>
+	<string name="totem_help_description">
+A tall, powerful symbol of both the tribe itself and its relation with nature. Your people can use it to recover (b)Morale(/b).
+	</string>
+	
+	<string name="menhir_short_description">A standing Megalith</string>
+	<string name="menhir_help_description">
+A large standing (b)Megalith(/b). Your people can use it to recover (b)Morale(/b).
+	</string>
+
+	<string name="dolmen_short_description">A large monument made of several stones supporting a bigger rock</string>
+	<string name="dolmen_help_description">
+A stone chamber consisting of several supporting pillars, and one or more stones placed on top. It increases your settlement's (b)prestige(/b) and boosts people's (b)Morale(/b).
+	</string>
+
+	<string name="stone_circle_short_description">The ultimate megalithic structure</string>
+	<string name="stone_circle_help_description">
+A large structure composed by several (b)Megaliths(/b) arranged in a circle. It greatly increases your settlement's (b)prestige(/b) and provides a boost for your people's (b)Morale(/b).
+	</string>
+	
+	<!-- === Transport === -->
+	<string name="bridge_short_description">A structure to allow easier crossing of rivers</string>
+	<string name="bridge_help_description">
+A structure in order to ease the (b)crossing of rivers(/b).
+This is especially useful for (b)Sledges(/b) and (b)Carts(/b) as otherwise they have to cross via the nearest ford.
+	</string>	
+
+  <!-- === RESOURCES: Categories === -->
+  
+	<string name="help_category_tool_description">
+Tools are required to perform certain tasks such as hunting, butchering, mining, fishing, or harvesting. Your people will automatically fetch the right tool for the job before doing it.
+Each tool has a series of attributes that indicate how suitable the tool is to perform certain tasks:
+(b)Fighting.(/b) Hand to hand combat.
+(b)Hunting.(/b) Killing animals or ranged combat.
+(b)Butchering.(/b) Butchering dead animals and extracting their resources.
+(b)Fishing.(/b) Extracting fish from rivers or lakes.
+(b)Harvesting.(/b) Harvesting cereals or pulses.
+(b)Mining.(/b) Extracting ores from deposits or mines.
+(b)Woodcutting.(/b) Cut down trees.
+Fighting and hunting attributes affect damage dealt in combat, other attributes affect the speed at which the task is done.
+	</string>
+	
+	<string name="help_category_clothing_description">
+Clothing offers your people protection from cold, increases welfare and reduces damage sustained in combat.
+(b)Skins(/b) and (b)Wool(/b) outfits protect people up to freezing temperatures. It is (b)critical(/b) that you have one of these per inhabitant.
+When it is warm your people will prefer to wear (b)Leather(/b) or (b)Linen(/b) outfits, these increase (b)welfare(/b) levels and offer slight protection in combat.
+A typical way to ensure you have enough clothing is to set outfits to continuous production in the (b)Crafter(/b) or (b)Outfitter(/b) structures and having a resource limit set of 100%.
+When the temperature drops below the level of protection clothing offers, the temperature of the person will start to drop, at this point they will have to seek (b)shelter(/b) or they will die of (b)hypothermia(/b).	
+	</string>
+	
+	<string name="help_category_food_and_drink_description">
+Resources that can be consumed to recover (b)Nutrition(/b) and (b)Hydration(/b) levels.
+	</string>
+	
+	<string name="help_category_material_description">
+Resources used to (b)craft(/b) or (b)build(/b) other resources or structures.
+	</string>
+	
+  <!-- === Tools === -->
+
+	<string name="biface_short_description">General purpose cutting tool</string>
+	<string name="biface_help_description">
+Basic cutting tool, used to (b)butcher(/b) animals, (b)harvest(/b) plants or as a simple hand to hand combat (b)weapon(/b).
+Bifaces are classified as a knives rather than axes, based on the functions they perform.
+	</string>
+	
+	<string name="wooden_spear_short_description">Basic hunting tool</string>
+	<string name="wooden_spear_help_description">
+The most basic (b)hunting(/b) and (b)ranged combat(/b) tool. A simple wooden spear with a fire hardened tip.
+	</string>	
+
+	<string name="spear_short_description">Hunting tool</string>
+	<string name="spear_help_description">
+Spears can be used to (b)hunt(/b) animals or (b)fight(/b) enemies. They are made out of a wooden shaft, and a head made out of a different material, like (b)Bone(/b), (b)Flint(/b) or (b)Metal(/b).
+They are better used in ranged combat, but if required can also be employed at melee range, with reduced effectiveness.
+	</string>
+
+	<string name="harpoon_short_description">Fishing tool</string>
+	<string name="harpoon_help_description">
+Harpoons are purpose built tools for (b)fishing(/b). They are made out of a wooden shaft and a head designed to catch fish.
+	</string>  
+
+	<string name="fishing_rod_short_description">Specialized fishing tool</string>
+	<string name="fishing_rod_help_description">
+Very (b)effective fishing(/b) tool used to catch almost any kind of fish.
+	</string>  	
+	
+	<string name="axe_short_description">Woodcutting and fighting tool</string>
+	<string name="axe_help_description">
+Axes are useful to (b)cut down(/b) trees or as hand to hand combat (b)weapons(/b). They have different resistances and strengths depending of whether they are made of (b)Flint(/b) or (b)metal(/b).
+	</string>
+
+	<string name="pick_short_description">Tool to mine ores or rocks.</string>
+	<string name="pick_help_description">
+Picks are used primarily for (b)breaking rocks(/b) and (b)mining(/b) various ores. They are composed of a wooden handle and a sharp, hard point made of (b)Flint(/b) or (b)metal(/b).
+	</string>
+
+	<string name="knife_short_description">Tool used primarily to butcher animals</string>
+	<string name="knife_help_description">
+Knives are used mainly for (b)butchering(/b) dead animals and (b)slaughtering(/b) domestic animals.
+They can also be used in melee (b)combat(/b) if required. 
+They are made out of a wooden handle, and a blade of (b)Flint(/b) or (b)metal(/b).
+	</string>
+
+	<string name="sickle_short_description">Harvesting tool</string>
+	<string name="sickle_help_description">
+Sickles are specialized tools designed to (b)harvest(/b) crops. The better the material of the blade, the more effective the tool.
+	</string>  
+
+	<string name="bow_short_description">Hunting and ranged combat weapon</string>  
+	<string name="bow_help_description">
+Excellent (b)ranged(/b) attack (b)weapon(/b), used to (b)hunt(/b) or (b)fight(/b) enemies at a distance.
+Bows have a longer range than spears, but are ineffective at close quarters.
+	</string>    
+
+	<string name="sling_short_description">Basic hunting tool</string>
+	<string name="sling_help_description">
+The sling is a basic, easy to make (b)ranged(/b) weapon, used mostly for (b)hunting(/b).
+Slings have a longer range than spears, but are ineffective at close quarters.
+	</string>  
+	
+	<string name="sword_short_description">Hand to hand combat weapon</string>
+	<string name="sword_help_description">
+Swords are the most effective (b)melee combat(/b) weapon of the ancient times. They consist of a wooden handle and a sharp blade made of metal.
+	</string>
+
+  <!-- === Materials === -->
+  
+	<string name="sticks_help_description">
+Used as crafting or construction materials or as fuel in (b)Hearths(/b), (b)Huts(/b), (b)Ovens(/b) or (b)Roundhouses(/b).
+	</string>
+
+	<string name="log_help_description">
+Logs can be used in construction or as fuel in (b)Hearths(/b), (b)Huts(/b), (b)Ovens(/b) or (b)Roundhouses(/b).
+	</string>
+
+	<string name="flint_help_description">
+A valuable crafting material, used to make all sorts of (b)tools(/b) in the (b)Stone Age(/b).
+	</string>
+
+	<string name="stone_help_description">
+A large rock used to construct sturdy structures.
+	</string>
+
+	<string name="megalith_help_description">
+A giant rock that can be used to build (b)megalithic structures(/b).
+Megaliths need to be mined first, then get ready for transport and finally pulled by humans to the construction site.
+You can use (b)primal vision(/b) in order to find and track megaliths.
+	</string>
+	
+	<string name="bone_help_description">
+Used as a crafting or construction material.
+	</string>
+
+	<string name="raw_skin_help_description">
+Raw skin from an animal, it needs to be (b)dried(/b) or (b)treated(/b) before it can be used.
+	</string>
+	
+	<string name="dry_skin_short_description">A dry skin</string>	
+	<string name="dry_skin_help_description">
+A dry skin, used for (b)crafting(/b) tools or (b)building(/b) structures.
+	</string>
+	
+	<string name="leather_short_description">A skin which has been tanned to make it more durable</string>	
+	<string name="leather_help_description">
+A (b)skin(/b) which has been (b)tanned(/b) to make it more (b)durable(/b). Leather can be used used to craft clothing and tools or construct structures.
+	</string>
+	
+	<string name="tannin_help_description">
+A substance used to treat (b)Raw Skins(/b) in order to make (b)Leather(/b). It is obtained from the bark of some trees, such as (b)Oaks(/b) and (b)Firs(/b). 
+	</string>
+	
+	<string name="straw_help_description">
+(b)Straw(/b) is obtained when harvesting cereals. It is a very important resource from the Neolithic onward, both as a (b)construction(/b) material and as (b)animal fodder(/b).
+	</string>
+	
+	<string name="mud_help_description">
+Used as (b)construction material(/b), mud can be (b)extracted(/b) from (b)rivers(/b) and (b)lakes(/b).
+	</string>
+
+	<string name="wool_help_description">
+A textile fiber obtained from the hair of sheep, used to make (b)warm clothing(/b).
+	</string>
+	
+	<string name="linen_help_description">
+A textile fiber obtained from linen, used to make clothing and other resources.
+	</string>
+
+	<string name="wool_cloth_short_description">Cloth used to make warm outfits</string>	
+	<string name="wool_cloth_help_description">
+Cloth with excellent insulating properties used to create (b)warm clothing(/b).
+	</string>
+
+	<string name="linen_cloth_short_description">Cloth used in light outfits</string>
+	<string name="linen_cloth_help_description">
+Cloth used to make light outfits.
+	</string>
+
+	<string name="charcoal_short_description">Used in furnaces in order to smelt ores</string>
+	<string name="charcoal_help_description">
+A byproduct of (b)wood(/b) heated in the absence of oxygen, it is required for the furnaces to reach the high temperatures required for the (b)smelting(/b) of (b)ores(/b).
+	</string>
+
+	<string name="copper_ore_help_description">
+An ore containing copper. Can be smelted into (b)Copper(/b), or mixed with (b)Tin Ore(/b) to make (b)Bronze(/b).
+	</string>	
+	
+	<string name="tin_ore_help_description">
+An ore containing tin. Can be mixed with (b)Copper Ore(/b) to produce (b)Bronze(/b).
+	</string>		
+	
+	<string name="iron_ore_help_description">
+An ore containing iron. Can be smelted to produce (b)Iron(/b) or (b)Steel(/b).
+	</string>
+
+	<string name="copper_short_description">A soft metal</string>
+	<string name="copper_help_description">
+A (b)soft metal(/b), easy to obtain and work into basic tools.
+	</string>	
+
+	<string name="bronze_short_description">A hard and durable metal</string>
+	<string name="bronze_help_description">
+An alloy of (b)Copper Ore(/b) and (b)Tin Ore(/b), much harder than (b)Copper(/b).
+(b)Bronze(/b) is as hard as (b)Iron(/b) but it requires tin to be created, which is not a widely available as (b)Iron Ore(/b).
+	</string>
+
+	<string name="iron_short_description">A hard and durable metal</string>		
+	<string name="iron_help_description">
+Iron is a (b)hard and durable(/b) metal, used to craft many tools, weapons and also used in construction.
+It requires higher temperatures to be smelted when compared to (b)Bronze(/b), so it has to be produced in special furnaces.
+Its main advantage over (b)Bronze(/b) is that (b)Iron Ore(/b) is a lot more abundant than (b)Tin Ore(/b).
+	</string>
+	
+	<string name="steel_short_description">A very hard and durable metal</string>			
+	<string name="steel_help_description">
+(b)Steel(/b) is obtained by carefully controlling the amount of carbon mixed with the iron in the smelting process. It is the (b)hardest and most durable(/b) metal available.
+	</string>
+	
+  <!-- === Food and drink === -->
+  
+	<string name="raw_meat_help_description">
+Meat that hasn't been processed in any way, will (b)decay quickly(/b) if left as is.
+It can be (b)cooked(/b) in order to be eaten. In extreme cases it could be eaten as is, but this will cause morale to decay.
+	</string>
+
+	<string name="cured_meat_short_description">Meat that has been cured. Lasts for a long time</string>
+	<string name="cured_meat_help_description">
+Meat that has been processed in the (b)Food Dryer(/b). It lasts a (b)lot longer(/b) than (b)Raw Meat(/b).
+	</string>	
+	
+	<string name="raw_fish_help_description">
+Fish hasn't been processed in any way since capture. (b)Decays very quickly(/b).
+It can be (b)cooked(/b) in order to be eaten. In extreme cases it could be eaten as is, but this will cause morale to decay.
+	</string>
+
+	<string name="dry_fish_short_description">Fish that has been dried. Lasts for a long time</string>		
+	<string name="dry_fish_help_description">
+Fish that has been processed in the (b)Food Dryer(/b). It lasts a (b)lot longer(/b) than (b)Raw Fish(/b).
+	</string>
+	
+	<string name="berries_help_description">
+Seasonal fruits produced by some wild plants. 
+They don't last for long, but are good to (b)eat(/b) when in (b)season(/b) in order to keep more durable food for the winter.
+	</string>
+	
+	<string name="fruit_help_description">
+Seasonal fruit produced by some wild trees. 
+It doesn't last for long, but is good to (b)eat(/b) when in (b)season(/b) in order to keep more durable food for the winter.
+	</string>
+	
+	<string name="nuts_help_description">
+Seasonal nuts produced by some wild trees. 
+They don't last for long, but are good to (b)eat(/b) when in (b)season(/b) in order to keep more durable food for the winter.
+	</string>
+	
+	<string name="grain_help_description">
+Used to make (b)Flour(/b), which in turn can be transformed into (b)Bread(/b). It is also a key ingredient in (b)Beer(/b), which boosts morale.
+It is the (b)most durable(/b) type of food available, and the best resource to feed (b)large amounts of people(/b), even if processing it is quite labor intensive.
+It can also serve as animal fodder if required, but it is better to use (b)Straw(/b) instead.
+	</string>
+	
+	<string name="flour_short_description">The main ingredient of Bread</string>	
+	<string name="flour_help_description">
+A powder obtained from crushing (b)Grain(/b) either in a (b)Mortar(/b) or a (b)Watermill(/b). 
+It is the main ingredient of (b)Bread(/b).
+	</string>
+	
+	<string name="bread_short_description">Simple flour bread</string>		
+	<string name="bread_help_description">
+A food obtained by baking (b)Flour(/b) and water in a (b)Hearth(/b) or (b)Oven(/b).
+It doesn't last for long so it's better to store (b)Grain(/b) and only produce (b)Bread(/b) right before it is consumed.
+	</string>
+	
+	<string name="pulses_help_description">
+The seeds of many types of legume fruits. They need to be (b)cooked(/b) before they can be eaten.
+	</string>
+	
+	<string name="milk_help_description">
+A nutritious drink obtained from domestic (b)Goats(/b) or (b)Cattle(/b).
+	</string>
+	
+	<string name="water_help_description">
+Having dedicated water collectors that carry water from rivers, lakes, or wells is more (b)efficient(/b) that having everyone go to the water source every time.
+Stabled (b)animals(/b) need to be brought (b)Water(/b) in (b)winter(/b), or they will die of thirst.
+	</string>
+	
+	<string name="beer_short_description">Recovers morale and hydration</string>		
+	<string name="beer_help_description">
+A mild alcoholic drink obtained by brewing (b)Grain(/b) with (b)Water(/b). It boosts the (b)Morale(/b) of your people.
+	</string>
+	
+	
+  <!-- === Clothing === -->
+
+	<string name="skins_outfit_short_description">Warm outfit made of animal hide</string>
+	<string name="skins_outfit_help_description">
+An outfit made from animal (b)skins(/b), which offers excellent (b)protection(/b) against the (b)cold(/b) in winter.
+It also increases (b)welfare(/b), and offers slight protection in combat.
+	</string>
+
+	<string name="leather_outfit_short_description">Light outfit made of leather</string>
+	<string name="leather_outfit_help_description">
+Clothing made from (b)Leather(/b), to be worn during warm seasons.
+It also increases (b)welfare(/b), and offers slight protection in combat.
+	</string>
+	
+	<string name="wool_outfit_short_description">Warm and stylish outfit</string>
+	<string name="wool_outfit_help_description">
+A warm outfit to (b)protect(/b) from the (b)cold(/b) in low temperatures.
+It also increases (b)welfare(/b), and offers slight protection in combat.
+(b)Wool Outfits(/b) are more (b)durable(/b) than (b)Skins Outfits(/b), and provide more (b)welfare(/b).
+	</string>
+	
+	<string name="linen_outfit_short_description">Light and stylish outfit</string>
+	<string name="linen_outfit_help_description">
+A light outfit to wear in warm temperatures.
+It also increases (b)welfare(/b), and offers slight protection in combat.
+(b)Linen Outfits(/b) are more (b)durable(/b) than (b)Leather Outfits(/b), and provide more (b)welfare(/b).
+	</string>	
+	
+  <!-- === TECHS: categories === -->
+	
+	<string name="help_era_paleolithic_description">
+A period where humans lived mostly in (b)hunter-gatherer(/b) bands that used tools made of (b)stone(/b).
+	</string>
+	
+	<string name="help_era_mesolithic_description">
+A period where humans started to make (b)pottery(/b) and more sophisticated (b)stone tools(/b).    
+	</string>
+	
+	<string name="help_era_neolithic_description">
+A period where humans started to (b)domesticate plants(/b) and (b)animals(/b) and made rapid technological advances.  
+	</string>
+	
+	<string name="help_era_copper_age_description">
+A period where humans discovered how to (b)smelt copper(/b) in order to create the first metal tools.
+	</string>
+	
+	<string name="help_era_bronze_age_description">
+A period where humans discovered how to mix tin and copper and lead to the widespread use of (b)Bronze(/b) tools and objects.
+	</string>
+
+	<string name="help_era_iron_age_description">
+A period characterized by the widespread use of (b)Iron(/b) tools and objects. 
+	</string>
+
+	<!-- === Generic === -->
+	
+	<string name="domestication_tech_help_description">
+Domestication techs allow you to (b)tame wild animals(/b).
+Once the tech is researched you will be able to (b)capture wild animals(/b) or (b)purchase(/b)  them from traders.
+To capture a wild animal you need to select a young animal of the right type and then click on the capture button.
+Make sure to have enough capacity in your (b)Stables(/b), otherwise the animals will die in winter.
+	</string>
+	
+	<!-- === Paleolithic === -->
+
+	<string name="bone_tools_help_description">
+Unlocks the creation of (b)tools(/b) made using animal (b)bones(/b), which are effective for certain tasks.
+	</string> 
+	
+	<string name="composite_tools_help_description">
+Unlocks the creation of tools composed of (b)several parts(/b). Composite tools are very useful for (b)hunting(/b) larger animals or (b)cutting down(/b) trees.
+	</string> 	
+	
+	<string name="slingmaking_help_description">
+Allows you to make (b)Slings(/b), which are basic hunting tools.
+	</string> 
+	
+	<string name="food_drying_help_description">
+Unlocks the construction of the (b)Food Dryer(/b), where you can produce (b)Cured Meat(/b) and (b)Dry Fish(/b), which are the only long lasting foods available in the (b)Paleolithic(/b).
+	</string> 
+	
+	<string name="dog_domestication_help_description">
+Unlocks the domestication of (b)Dogs(/b). Dogs will slowly come to the settlement and will help you protect it.
+	</string> 
+	
+	<string name="tanning_help_description">
+Unlocks the (b)Tanner(/b), where you can produce (b)Leather(/b).
+	</string>
+
+	<string name="spirituality_help_description">
+Unlocks the construction of the (b)Totem(/b) structure, which helps with keeping morale high in the settlement.
+	</string> 	
+ 
+ <!-- === Mesolithic === -->
+ 
+	<string name="stone_polishing_help_description">
+Unlocks (b)polished(/b) stone tools in the (b)Crafter(/b).
+	</string> 
+	
+	<string name="pottery_help_description">
+Unlocks the (b)Mesolithic(/b) era, and also the ability to (b)transport(/b) and (b)store Water(/b). 
+This is a lot more efficient than having people going to the water source every time.
+	</string> 
+
+	<string name="archery_help_description">
+Unlocks the creation of (b)Bows(/b), which are the best hunting tool available in the (b)Stone Age(/b).
+	</string> 
+
+	<string name="grain_processing_help_description">
+Allows you to harvest (b)wild cereals(/b), crush them into (b)Flour(/b) and make (b)Bread(/b).
+	</string> 
+
+	<string name="pulse_processing_help_description">
+Allows you to harvest (b)wild pulses(/b) and cook them.
+	</string> 
+	
+	<string name="sledgemaking_help_description">
+Unlocks the construction of (b)Sledges(/b), which are a critical transport in the early eras.
+	</string> 
+	
+ <!-- === Neolithic === -->
+ 
+	<string name="underground_mining_help_description">
+Allows you to build mines on top of deposits. Mines dramatically (b)increase(/b) the amount of (b)resources(/b) you can extract from a (b)deposit(/b).
+	</string> 
+	
+	<string name="thatching_help_description">
+Unlocks (b)thatched structures(/b), which are in general more durable and advanced than skins structures.
+	</string> 
+
+	<string name="well_digging_help_description">
+Allows you to make (b)Wells(/b), that are more efficient than having to go collect water from the nearest river or lake.
+	</string> 
+	
+	<string name="fortifications_help_description">
+Unlocks the construction of basic (b)defensive structures(/b) that can be used to protect your settlement against (b)raiders(/b) and (b)predators(/b) in order to minimize the loss of life.
+	</string> 
+	
+	<string name="reinforced_fortifications_help_description">
+Unlocks the construction of (b)Reinforced Gates(/b) and (b)Guard Towers(/b).
+These are more durable than their wooden counterparts, and in the case of the (b)Guard Tower(/b) can hold more people.
+	</string> 	
+	
+	<string name="cereal_domestication_help_description">
+It allows you to (b)plant(/b) and (b)harvest cereals(/b), unlocking the (b)Neolithic(/b) era.
+It and dramatically (b)increases(/b) the amount of (b)people(/b) you can reliably (b)feed(/b) every year.
+This is one of the most important techs in the history of mankind.
+	</string> 
+	
+	<string name="pulse_domestication_help_description">
+Allows you to (b)plant(/b) and (b)harvest pulses(/b). 
+Pulses are usually harvested in summer, so they are a good complement to cereals which are harvested in the fall.
+	</string>
+	
+	<string name="flax_domestication_help_description">
+Allows you to plant (b)Flax(/b), which is used to produce (b)Linen Cloth(/b).
+	</string>
+
+	<string name="weaving_help_description">
+Allows you to make cloth and outfits made of (b)Linen(/b) and (b)Wool(/b).
+	</string>
+	
+	<string name="stilting_help_description">
+Allows you to build (b)Bridges(/b).
+	</string>
+	
+	<string name="megalithism_help_description">
+Allows you to build (b)megalithic structures(/b) that increase the settlement's (b)prestige(/b) and help improve (b)morale(/b).
+	</string>
+	
+ <!-- === Copper Age === -->
+ 
+	<string name="copper_smelting_help_description">
+Unlocks the production of (b)Copper(/b) in (b)Pit Furnaces(/b), the (b)Metalsmith(/b) structure and the creation of (b)Copper(/b) tools and weapons.
+Unlocks the (b)Copper Age(/b).
+	</string>
+	
+	<string name="fruit_tree_domestication_help_description">
+Allows you to plant (b)fruit trees(/b).
+	</string>
+	
+	<string name="rye_domestication_help_description">
+Allows you to plant and harvest rye, increasing the crop variety is a good way to protect against (b)diseases(/b).
+	</string>
+		
+	<string name="wheel_help_description">
+Unlocks the construction of (b)Carts(/b) which will allow you to (b)transport(/b) a large amount of (b)resources(/b).
+	</string>
+	
+ <!-- === Bronze Age === -->
+ 
+	<string name="bronze_smelting_help_description">
+Unlocks the production of (b)Bronze(/b) in (b)Pit Furnaces(/b) and the creation of (b)Bronze(/b) tools and weapons.
+Unlocks the (b)Bronze Age(/b).
+	</string>
+	
+	<string name="masonry_help_description">
+Unlocks (b)Stone(/b) structures that are in general more (b)durable(/b) and advanced than (b)Mud(/b) structures.
+	</string>
+	
+	<string name="swordmaking_help_description">
+Unlocks (b)Swords(/b), which are the most (b)effective melee weapon(/b).
+	</string>
+	
+	<string name="composite_archery_help_description">
+Unlocks (b)Composite Bows(/b), which are the most effective (b)hunting weapon(/b).
+	</string>
+	
+	<string name="brewing_help_description">
+Unlocks the production of (b)Beer(/b), which can help boost (b)Morale(/b) in the settlement.
+	</string>
+	
+ <!-- === Iron Age === -->
+ 
+	<string name="iron_smelting_help_description">
+Unlocks the smelting of (b)Iron(/b) in (b)Bloomeries(/b), the (b)Blacksmith(/b) structure and the creation of (b)Iron(/b) tools and weapons.
+Unlocks the (b)Iron Age(/b).
+	</string>
+	
+	<string name="steelmaking_help_description">
+Unlocks the production of (b)Steel(/b), which is the (b)hardest(/b) and (b)most durable(/b) material available in ancient times.
+	</string>
+	
+	<string name="hydropower_help_description">
+Unlocks the construction of (b)Watermills(/b), which can greatly speed up the production of (b)Flour(/b).
+	</string>
+	
+	<string name="baking_help_description">
+Unlocks the construction of (b)Ovens(/b), which can greatly speed up the production of (b)Bread(/b).
+	</string>
+
+  <!-- === ANIMALS: categories === -->	
+  
+	<string name="help_domestic_animals_description">
+Domestic animals provide a variety of benefits to your settlement: (b)protection(/b), (b)food(/b), (b)resources(/b) and (b)muscle power(/b).
+You can obtain domestic animals by (b)purchasing(/b) them from traders, or by (b)domesticating young(/b) individuals of the equivalent wild variant.
+Animals need to be sheltered in winter, and be provided with (b)Water(/b) and (b)Straw(/b). If there is no (b)Straw(/b) available, you can feed them with (b)Grain(/b).
+Note that (b)Dogs(/b), as well as (b)Donkeys(/b) or (b)Horses(/b) that are (b)attached to transports(/b), don't need shelter or food in winter.
+Adult females will get pregnant and give (b)birth(/b) to new animals as long as there is an adult or old male around.
+Note that your people will automatically (b)slaughter(/b) any domestic animals that are (b)too old(/b), even if they are below the limit.
+	</string>
+	
+	<string name="help_wild_animals_description">
+Wild animals inhabit the land and for the most part (b)avoid humans(/b).
+Predators will pose a threat if they are (b)very hungry(/b), or if they feel (b)threatened(/b).
+	</string>
+  
+  <!-- === Animals === -->
+  
+	<string name="dog_help_description">
+(b)Dogs(/b) are the first domestic animals to show up in your settlement. They are excellent (b)guards(/b) and will help you fight any intruders.
+Once the (b)Dog Domestication(/b) tech is researched, dogs will keep on coming to the village at a steady rate, depending on your population.
+They eat the leftovers from the humans, so they don't require to be fed or given shelter.
+	</string>
+	
+	<string name="goat_help_description">
+(b)Goats(/b) produce (b)Milk(/b) and can also be slaughtered to obtain meat and skins.
+	</string>	
+	
+	<string name="sheep_help_description">
+(b)Sheep(/b) produce (b)Wool(/b) and can also be slaughtered to obtain meat and skins.
+	</string>		
+	
+	<string name="pig_help_description">
+(b)Pigs(/b) are primarily a source of meat.
+	</string>	
+	
+	<string name="cattle_help_description">
+(b)Cattle(/b) produce (b)Milk(/b) and can also be slaughtered to obtain meat and skins.
+	</string>		
+	
+	<string name="donkey_help_description">
+(b)Donkeys(/b) are used primarily to pull (b)Carts(/b), but they can also be slaughtered to obtain meat.
+	</string>		
+	
+	<string name="horse_help_description">
+(b)Horses(/b) are used primarily to pull (b)Carts(/b), but they can also be slaughtered to obtain meat.
+	</string>			
+	
+	<string name="herbivore_help_description">
+Herbivores roam the land and feed from grass. They are one of the primary sources of (b)Meat(/b), (b)Raw Skins(/b) and (b)Bones(/b).
+Healthy (b)adults(/b) are faster and (b)tougher(/b), so they require better tools or more hunters to be dealt with effectively.
+You can identify the easier prey using (b)primal vision(/b) or by clicking on individuals.
+	</string>	
+	
+	<string name="large_herbivore_help_description">
+Large herbivores will provide your people with large amounts of vital (b)resources(/b).
+However they are used to defending themselves against predators, and (b)might retaliate(/b) if attacked. Approach them with care.
+	</string>		
+	
+	<string name="predator_help_description">
+Predators are animals that naturally prey on others. For the most part they will leave humans alone, unless hungry or provoked.
+You can use (b)primal vision(/b) to identify them on the map, where they will show highlighted in orange or red.
+	</string>
+
+	<!-- === TRANSPORTS (no categories) === -->
+
+	<string name="sledge_short_description">A basic human pulled transport</string>
+	<string name="sledge_help_description">
+The most basic form of transport, it allows one adult to move around (b)heavy resources(/b) with ease.
+	</string>
+
+	<string name="cart_short_description">A wheeled transport pulled by animals</string>
+	<string name="cart_help_description">
+Allows your people to move (b)large quantities(/b) of (b)heavy resources(/b) around.
+Carts are pulled by (b)Donkeys(/b) or (b)Horses(/b). When an animal is available, it will get attached to the transport automatically.
+	</string>
+	
+	<string name="rolling_megalith_short_description">A specialized transport to move megaliths</string>
+	<string name="rolling_megalith_help_description">
+To move (b)Megaliths(/b) around they are placed into rolling timbers, and then pulled by (b)several humans(/b).
+	</string>
+
+	<!-- === PLANTS === -->
+	<string name="help_related_techs">Related Techs</string>
+
+	<string name="help_plants_description">
+Plants that grow in the wild are a great source of (b)resources(/b).
+Once you have the appropriate (b)techs(/b), you will be able to (b)plant(/b) some of them yourself.
+	</string>
+
+	<string name="help_plant_harvesting_season">Harvesting Season</string>
+	<string name="help_plant_planting_season">Planting Season</string>
+	<string name="help_plant_disease_resistance">Disease Resistance: (1)%</string>
+	<string name="help_plant_extra_production">(1)% chance of producing extra resource: (2)</string>
+
+	<string name="help_plant_type_cereals">Cereals</string>
+	<string name="help_plant_type_berries">Berries</string>
+	<string name="help_plant_type_pulses">Pulses</string>
+	<string name="help_plant_type_fruit_trees">Fruit Trees</string>
+	<string name="help_plant_type_other">Other</string>
+	
+	<string name="help_einkorn_description">
+A hardy cereal, (b)resistant(/b) against diseases.
+	</string>
+
+	<string name="help_emmer_description">
+A high yield cereal, produces (b)extra Grain(/b).
+	</string>
+
+	<string name="help_barley_description">
+A cereal that produces (b)extra Straw(/b).
+	</string>
+	
+	<string name="help_flax_description">
+A plant that produces (b)Linen(/b).
+	</string>	
+
+	<string name="help_peas_description">
+A nutritious legume.
+	</string>	
+	
+	<string name="help_chickpeas_description">
+A nutritious legume.
+	</string>	
+	
+	<string name="help_lentils_description">
+A nutritious legume.
+	</string>	
+	
+	<string name="help_bitter_vetch_description">
+A nutritious legume.
+It can grow wild, but it can also be planted.
+	</string>
+	
+	<string name="help_strawberry_description">
+A wild collectable seasonal berry.
+	</string>		
+	
+	<string name="help_blackberry_description">
+A wild collectable seasonal berry.
+	</string>		
+	
+	<string name="help_blueberry_description">
+A wild collectable seasonal berry.
+	</string>	
+	
+	<string name="help_raspberry_description">
+A wild collectable seasonal berry.
+	</string>			
+	
+	<string name="help_chestnut_description">
+Produces nutritious chestnuts.
+	</string>		
+	
+	<string name="help_pear_description">
+Produces nutritious fruit.
+	</string>			
+	
+	<string name="help_service_description">
+Produces nutritious fruit.
+	</string>		
+	
+	<string name="help_cherry_description">
+Produces nutritious fruit.
+	</string>			
+
+	<string name="help_rye_description">
+An all round cereal, more (b)resistant(/b) than most, and produces a good amount of (b)Grain(/b).
+	</string>
+	
+	<string name="help_oak_description">
+(b)Tannin(/b), an essential ingredient for the manufacturing of (b)Leather(/b) can be obtained from the bark of this tree.
+	</string>	
+
+	<string name="help_fir_description">
+(b)Tannin(/b), an essential ingredient for the manufacturing of (b)Leather(/b) can be obtained from the bark of this tree.
+	</string>	
+	
+	
+</strings>

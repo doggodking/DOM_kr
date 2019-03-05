@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <string name="presence_default">게임 중</string>
+  <string name="presence_tutorial">튜토리얼 중</string>
+  <string name="presence_continental_dawn">대륙의 새벽 플레이 중</string>
+  <string name="presence_the_northlands">노스랜드 플레이 중</string>
+  <string name="presence_ancient_warriors">고대의 전사들 플레이 중</string>
+  <string name="presence_challenge">도전 중</string>
+  <string name="presence_community_game">커뮤니티 게임 중</string>
+  <string name="presence_menus">메뉴</string>
+</strings>

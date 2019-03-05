@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<!-- 
+	Important: These are the names of all the entities in the game, they also get mentioned in other places in the game, 
+	it is very important that these get translated in the same way in all places 
+	-->
+	
+	<!-- Humans -->
+	<string name="human_primitive_human">원시인</string>
+
+	<!-- Animals. These are used for young/adult/old and male/female animals, try to find a word that is generic enough in the language -->
+	<string name="animal_bear">곰</string>
+	<string name="animal_cave_bear">동굴곰</string>
+	<string name="animal_deer">사슴</string>
+	<string name="animal_megaloceros">큰뿔사슴</string>
+	<string name="animal_reindeer">순록</string>
+	<string name="animal_wolf">늑대</string>
+	<string name="animal_cave_lion">동굴사자</string>
+	<string name="animal_dog">개</string>
+	<string name="animal_mammoth">매머드</string>
+	<string name="animal_woolly_rhinoceros">털코뿔소</string>
+	<string name="animal_vulture">독수리</string>
+	<string name="animal_eagle">수리</string>
+	<string name="animal_dove">비둘기</string>
+	<string name="animal_ibex">아이벡스</string>
+	<string name="animal_mouflon">무플런</string>
+	<string name="animal_goat">염소</string>
+	<string name="animal_sheep">양</string>
+	<string name="animal_ancient_bison">고대 들소</string>
+	<string name="animal_bison">들소</string>
+	<string name="animal_pig">돼지</string>
+	<string name="animal_boar">멧돼지</string>
+	<string name="animal_aurochs">오록스</string>
+	<string name="animal_cattle">소</string>
+	<string name="animal_wild_horse">야생말</string>
+	<string name="animal_horse">말</string>
+	<string name="animal_wild_donkey">야생 당나귀</string>
+	<string name="animal_donkey">당나귀</string>
+	
+	<!-- Structures -->
+	<string name="structure_tent">천막</string>
+	<string name="structure_hut">오두막</string>
+	<string name="structure_storage_tent">천막창고</string>
+	<string name="structure_wood_pile">목재 축적지</string>
+	<string name="structure_haystack">건초 축적지</string>
+	<string name="structure_rock_pile">바위 축적지</string>
+	<string name="structure_crafter">공예 작업지</string>
+	<string name="structure_food_dryer">식품 건조대</string>
+	<string name="structure_skins_dryer">가죽 건조대</string>
+	<string name="structure_hearth">모닥불</string>
+	<string name="structure_tanner">가죽세공소</string>
+	<string name="structure_mortar">모르타르 작업소</string>
+	<string name="structure_storage_hut">오두막창고</string>
+	<string name="structure_roundhouse">원형집</string>
+	<string name="structure_warehouse">워크샵</string>
+	<string name="structure_granary">곡창</string>
+	<string name="structure_flint_mine">부싯돌 광산</string>
+	<string name="structure_copper_mine">구리 광산</string>
+	<string name="structure_tin_mine">주석 광산</string>
+	<string name="structure_iron_mine">철 광산</string>
+	<string name="structure_workshop">작업공방</string>
+	<string name="structure_metalsmith">금속세공소</string>
+	<string name="structure_blacksmith">대장간</string>
+	<string name="structure_charcoal_pit">숯구덩이</string>
+	<string name="structure_pit_furnace">구덩이용광로</string>
+	<string name="structure_bloomery">연로</string>
+	<string name="structure_totem">토템</string>
+	<string name="structure_skull_pole">해골 장대</string>
+	<string name="structure_stables">마구간</string>
+	<string name="structure_weaver">직공소</string>
+	<string name="structure_outfitter">의상작업장</string>
+	<string name="structure_well">우물</string>
+	<string name="structure_menhir">선돌</string>
+	<string name="structure_dolmen">고인돌</string>
+	<string name="structure_stone_circle">스톤서클</string>
+	<string name="structure_palisade">목채</string>
+	<string name="structure_wall">담</string>
+	<string name="structure_gate">입구</string>
+	<string name="structure_reinforced_gate">강화된 입구</string>
+	<string name="structure_watchtower">탑</string>
+	<string name="structure_guard_tower">파수탑</string>
+	<string name="structure_brewery">양조장</string>
+	<string name="structure_watermill">물레방아</string>
+	<string name="structure_oven">오븐</string>
+	<string name="structure_bridge">다리</string>
+
+	<!-- Resources -->
+	<string name="resource_wooden_spear">나무 창</string>
+	<string name="resource_wooden_harpoon">나무 작살</string>
+	<string name="resource_bone_harpoon">뼈 작살</string>
+	<string name="resource_fishing_rod">낚싯대</string>
+	<string name="resource_bone_spear">뼈 창</string>
+	<string name="resource_flint_spear">부싯돌 창</string>
+	<string name="resource_biface">주먹도끼</string>
+	<string name="resource_flint_axe">부싯돌 도끼</string>
+	<string name="resource_flint_pick">부싯돌 곡괭이</string>
+	<string name="resource_flint">부싯돌</string>
+	<string name="resource_sticks">나뭇가지</string>
+	<string name="resource_berries">딸기</string>
+	<string name="resource_fruit">과일</string>
+	<string name="resource_nuts">견과</string>
+	<string name="resource_raw_skin">생가죽</string>
+	<string name="resource_raw_meat">생고기</string>
+	<string name="resource_bone">뼈</string>
+	<string name="resource_cured_meat">보존 육류</string>
+	<string name="resource_dry_skin">건조가죽</string>
+	<string name="resource_leather">무두질된 가죽</string>
+	<string name="resource_raw_fish">생선</string>
+	<string name="resource_dry_fish">건어물</string>
+	<string name="resource_log">통나무</string>
+	<string name="resource_grain">곡물</string>
+	<string name="resource_flour">밀가루</string>
+	<string name="resource_bread">빵</string>
+	<string name="resource_waterskin">수통</string>
+	<string name="resource_stone">돌</string>
+	<string name="resource_charcoal">숯</string>
+	<string name="resource_copper_ore">구리 광석</string>
+	<string name="resource_tin_ore">주석 광석</string>
+	<string name="resource_iron_ore">철 광석</string>
+	<string name="resource_copper">구리</string>
+	<string name="resource_bronze">청동</string>
+	<string name="resource_iron">철</string>
+	<string name="resource_steel">강철</string>
+	<string name="resource_bow">활</string>
+	<string name="resource_composite_bow">개량활</string>
+	<string name="resource_straw">짚</string>
+	<string name="resource_mud">진흙</string>
+	<string name="resource_sling">새총</string>
+	<string name="resource_tannin">타닌</string>
+	<string name="resource_copper_spear">구리 창</string>
+	<string name="resource_copper_axe">구리 도끼</string>
+	<string name="resource_bronze_spear">청동 창</string>
+	<string name="resource_bronze_knife">청동 칼</string>
+	<string name="resource_bronze_axe">청동 도끼</string>
+	<string name="resource_iron_spear">철 창</string>
+	<string name="resource_iron_knife">철 칼</string>
+	<string name="resource_iron_axe">철 도끼</string>
+	<string name="resource_steel_spear">강철 창</string>
+	<string name="resource_steel_knife">강철 칼</string>
+	<string name="resource_steel_axe">강철 도끼</string>
+	<string name="resource_bronze_sword">청동 검</string>
+	<string name="resource_iron_sword">철 검</string>
+	<string name="resource_flint_knife">부싯돌 칼</string>
+	<string name="resource_copper_knife">구리 칼</string>
+	<string name="resource_steel_sword">강철 검</string>
+	<string name="resource_skins_outfit">가죽 옷</string>
+	<string name="resource_leather_outfit">무두질한 가죽 옷</string>
+	<string name="resource_wool_outfit">양모 옷</string>
+	<string name="resource_linen_outfit">리넨 옷</string>
+	<string name="resource_steel_pick">강철 곡괭이</string>
+	<string name="resource_copper_pick">구리 곡괭이</string>
+	<string name="resource_bronze_pick">청동 곡괭이</string>
+	<string name="resource_iron_pick">철 곡괭이</string>
+	<string name="resource_linen">린넨</string>
+	<string name="resource_linen_cloth">린넨 천</string>
+	<string name="resource_pulses">콩</string>	
+	<string name="resource_steel_sickle">강철 낫</string>
+	<string name="resource_copper_sickle">구리 낫</string>
+	<string name="resource_bronze_sickle">청동 낫</string>
+	<string name="resource_iron_sickle">철 낫</string>
+	<string name="resource_flint_sickle">부싯돌 낫</string>
+	<string name="resource_milk">우유</string>
+	<string name="resource_water">물</string>
+	<string name="resource_beer">맥주</string>
+	<string name="resource_wool">양모</string>
+	<string name="resource_wool_cloth">양모 천</string>
+	<string name="resource_megalith">거석</string>
+
+	<!-- Techs -->
+	<string name="tech_bone_tools">뼈 도구</string>
+	<string name="tech_composite_tools">복합 도구</string>
+	<string name="tech_thatching">장식</string>
+	<string name="tech_masonry">석공 시공</string>
+	<string name="tech_stone_polishing">석재 연마</string>
+	<string name="tech_copper_smelting">구리 제련</string>
+	<string name="tech_bronze_smelting">청동 제련</string>
+	<string name="tech_iron_smelting">철 제련</string>
+	<string name="tech_steelmaking">제강</string>
+	<string name="tech_underground_mining">지하 채광</string>
+	<string name="tech_pottery">도기류</string>
+	<string name="tech_well_digging">우물 파기</string>
+	<string name="tech_food_drying">식품 건조</string>
+	<string name="tech_grain_processing">곡물 가공</string>
+	<string name="tech_pulse_processing">콩 가공</string>
+	<string name="tech_cereal_domestication">곡물 재배</string>
+	<string name="tech_pulse_domestication">콩 재배</string>
+	<string name="tech_flax_domestication">아마 재배</string>
+	<string name="tech_fruit_tree_domestication">과수원 재배</string>
+	<string name="tech_rye_domestication">호밀 재배</string>
+	<string name="tech_dog_domestication">개 사육</string>
+	<string name="tech_sheep_domestication">양 사육</string>
+	<string name="tech_goat_domestication">염소 사육</string>
+	<string name="tech_pig_domestication">돼지 사육</string>
+	<string name="tech_cattle_domestication">소 사육</string>
+	<string name="tech_donkey_domestication">당나귀 사육</string>
+	<string name="tech_horse_domestication">말 사육</string>
+	<string name="tech_tanning">무두질</string>
+	<string name="tech_weaving">제직</string>
+	<string name="tech_sledgemaking">짐썰매 제작</string>
+	<string name="tech_stilting">죽마기</string>
+	<string name="tech_wheel">바퀴</string>
+	<string name="tech_spirituality">영성</string>
+	<string name="tech_megalithism">거석기념물</string>
+	<string name="tech_brewing">양조</string>
+	<string name="tech_hydropower">수력 발전</string>
+	<string name="tech_baking">베이킹</string>
+
+	<string name="tech_slingmaking">짐썰매 제작</string>
+	<string name="tech_archery">양궁</string>
+	<string name="tech_fortifications">요새화</string>
+	<string name="tech_swordmaking">검 제작</string>
+	<string name="tech_composite_archery">복합 양궁</string>
+	<string name="tech_reinforced_fortifications">보강된 요새</string>
+
+	<!-- Transports -->
+	<string name="transport_sledge">짐썰매</string>
+	<string name="transport_cart">손수레</string>
+	<string name="transport_rolling_megalith">거석 굴리기</string>
+
+	<!-- Misc -->
+	<string name="bank">물길</string>
+
+	<!-- Trees -->
+	<string name="tree_young_broadleaf">묘목</string>
+	<string name="tree_young_conifer">묘목</string>
+
+	<string name="tree_oak">참나무</string>
+	<string name="tree_pine">소나무</string>
+	<string name="tree_beech">너도밤나무</string>
+	<string name="tree_birch">자작나무</string>
+	<string name="tree_spruce">가문비나무</string>
+	<string name="tree_fir">전나무</string>
+	<string name="tree_service">서비스트리</string>
+	<string name="tree_cherry">체리나무</string>
+	<string name="tree_chestnut">밤나무</string>
+	<string name="tree_pear">배나무</string>
+
+	<string name="tree_raspberry">라즈베리</string>
+	<string name="tree_strawberry">딸기</string>
+	<string name="tree_blueberry">블루베리</string>
+	<string name="tree_blackberry">블랙베리</string>
+
+	<string name="tree_einkorn">외알밀</string>
+	<string name="tree_emmer">엠머밀</string>
+	<string name="tree_barley">보리</string>
+	<string name="tree_rye">호밀</string>
+
+	<string name="tree_lentils">렌즈콩</string>
+	<string name="tree_peas">완두</string>
+	<string name="tree_chickpeas">병아리콩</string>
+	<string name="tree_bitter_vetch">쓴살갈퀴</string>
+
+	<string name="tree_flax">아마</string>
+
+</strings>

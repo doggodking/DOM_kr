@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="scenario_metal_age_creative_mode">금속 시대 크리에이티브 모드</string>
+	<string name="scenario_metal_age_creative_mode_short_title">금속 시대</string>
+	<string name="scenario_metal_age_creative_mode_subtitle">쉬움</string>
+	<string name="scenario_metal_age_creative_mode_description">
+크리에이티브 모드, 동기 시대로 시작합니다.
+• 풍부한 자원
+• 공격 없음
+• 재해 없음
+• 짧은 겨울
+• 도전과제 없음
+	</string>
+	<string name="scenario_metal_age_creative_mode_context"></string>
+
+</strings>

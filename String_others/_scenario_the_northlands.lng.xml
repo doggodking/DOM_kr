@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="mountain_confluence">Mountain Confluence</string>
+	<string name="frozen_valley">얼어붙은 계곡</string>
+	<string name="north_river">북부 강</string>
+	<string name="twin_lakes">쌍둥이 호수</string>
+	<string name="chill_lake">냉기 호수</string>	
+	
+	<string name="scenario_the_northlands">노스 랜드</string>
+	<string name="scenario_the_northlands_subtitle">도전적</string>
+	<string name="scenario_the_northlands_description">혹독한 환경에서 당신의 정착지를 확장하고 발전시키십시오.</string>
+	<string name="scenario_the_northlands_context">북부 지방에서는 긴 겨울, 짧은 여름, 그리고 희박한 자원이 생존을 훨씬 더 어렵게 만들었고, 오직 가장 단호한 인간만이 번영할 수 있었습니다.</string>
+
+	<string name="milestone_protein_hoarding">단백질 비축</string>
+	<string name="milestone_protein_hoarding_description">5개의 절인 고기와 건조 생선을 모으십시오.</string>
+
+	<string name="milestone_northern_survival">북부 생존</string>
+	<string name="milestone_northern_survival_description">5년동안 생존하십시오.</string>
+	
+	<string name="milestone_winter_resistance">겨울 견디기</string>
+	<string name="milestone_winter_resistance_description">10벌의 천 옷을 모으십시오.</string>
+	
+	<string name="milestone_winter_hunt">겨울 사냥</string>
+	<string name="milestone_winter_hunt_description">매머드, 털 코뿔소 그리고 동굴 곰을 사냥하십시오.</string>
+	
+	<string name="milestone_winter_domestication">겨울 사육</string>
+	<string name="milestone_winter_domestication_description">한 번에 10마리 양을 소유하세요.</string>
+	
+	<string name="milestone_extra_warmth">추가 온기</string>
+	<string name="milestone_extra_warmth_description">양조 기술을 해제하십시오.</string>
+
+	<string name="milestone_technocracy">기술정치</string>
+	<string name="milestone_technocracy_description">모든 기술을 연구하십시오.</string>	
+	
+	<string name="milestone_north_settlement">북쪽 정착지</string>
+	<string name="milestone_north_settlement_description">30채의 원형집을 짓고, 인구 150명에 도달하십시오.</string>			
+	
+</strings>

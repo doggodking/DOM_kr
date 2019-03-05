@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="scenario_ancient_warriors">고대의 전사들</string>
+	<string name="scenario_ancient_warriors_subtitle">어려움</string>
+	<string name="scenario_ancient_warriors_description">적대적인 환경에서 당신의 정착지를 발전시키십시오.</string>	
+	<string name="scenario_ancient_warriors_context">어떤 지역에서는, 자원의 부족과 인구 과밀로 인해 인간들 사이에 극심한 분쟁이 일어났습니다.</string>		
+	<string name="canyon_of_slaughter">죽음의 협곡</string>
+	<string name="blood_river">피의 강</string>
+	<string name="plains_of_conflict">분쟁의 평원</string>
+	<string name="blood_lake">피의 호수</string>	
+	
+	<string name="milestone_first_blood">퍼스트 블러드</string>	
+	<string name="milestone_first_blood_description">침입자를 1명을 죽이십시오.</string>
+	
+	<string name="milestone_basic_defense">기본 방어</string>	
+	<string name="milestone_basic_defense_description">감시탑을 5채 건설하십시오.</string>
+	
+	<string name="milestone_advanced_defense">발전된 방어</string>	
+	<string name="milestone_advanced_defense_description">파수탑을 5채 건설하십시오.</string>
+	
+	<string name="milestone_weapon_production">무기 생산</string>	
+	<string name="milestone_weapon_production_description">작업장과 대장간을 건설하십시오.</string>	
+	
+	<string name="milestone_rivers_of_blood">피의 강</string>	
+	<string name="milestone_rivers_of_blood_description">침입자를 100명 죽이십시오.</string>
+	
+	<string name="milestone_swordmaking">검 제조</string>	
+	<string name="milestone_swordmaking_description">5개의 청동검을 모으십시오.</string>
+	
+	<string name="milestone_swordmastery">소드 마스터리</string>	
+	<string name="milestone_swordmastery_description">20개의 강철검을 모으십시오.</string>	
+	
+	<string name="milestone_warrior_settlement">전사의 정착지</string>
+	<string name="milestone_warrior_settlement_description">당신의 정착지 인구가 150명이 되야합니다.</string>
+</strings>

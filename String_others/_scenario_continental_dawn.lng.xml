@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<string name="twisty_river">꾸불꾸불한 강</string>
+	<string name="forest_river">숲속 강</string>
+	<string name="river_fork">포크 강</string>
+	<string name="lake_valley">호수 계곡</string>
+	<string name="mountain_lake">산 호수</string>	
+	<string name="merging_streams">합쳐진 개울</string>
+
+	<string name="scenario_continental_dawn">대륙의 새벽</string>
+	<string name="scenario_continental_dawn_subtitle">접근 가능한</string>
+	<string name="scenario_continental_dawn_description">구석기 시대부터 철기 시대까지 당신의 정착지를 확장하고 발전시키십시오.</string>
+	<string name="scenario_continental_dawn_context">약 1만 2천년 전에 마지막 빙하기가 끝났습니다. 이는 대부분의 유럽 대륙을 훨씬 더 쉽게 살 수 있게 만들었고, 인간의 수는 번창했고 신석기 혁명이 시작되었습니다.</string>
+
+	<string name="milestone_hunting_and_gathering">사냥과 수집</string>
+	<string name="milestone_hunting_and_gathering_description">날고기 3개와 열매 3개를 모으십시오.</string>
+	<string name="milestone_hunting_and_gathering_text">당신은 이제 기본을 알게 되었습니다.</string>
+	
+	<string name="milestone_survival">생존</string>
+	<string name="milestone_survival_description">2년동안 생존</string>
+
+	<string name="milestone_humble_beginnings">겸손한 시작</string>
+	<string name="milestone_humble_beginnings_description">중석기 시대 해제</string>
+	
+	<string name="milestone_expansion">확장</string>
+	<string name="milestone_expansion_description">당신의 정착지 인구가 20명을 도달하십시오.</string>
+
+	<string name="milestone_neofarmer">신석기 농부</string>
+	<string name="milestone_neofarmer_description">신석기 시대의 모든 작물 해제</string>
+
+	<string name="milestone_megalomania">과대 망상증</string>
+	<string name="milestone_megalomania_description">스톤 서클을 건설하십시오.</string>
+
+	<string name="milestone_animal_control">동물 제어</string>
+	<string name="milestone_animal_control_description">20마리의 가축을 키우십시오.</string>
+
+	<string name="milestone_metal_alloy">금속 합금</string>
+	<string name="milestone_metal_alloy_description">1개의 청동을 얻으십시오.</string>
+
+	<string name="milestone_the_riddle_of_steel">수수께끼 강철</string>
+	<string name="milestone_the_riddle_of_steel_description">1개의 강철을 얻으십시오.</string>
+
+	<string name="milestone_consolidation">통합체</string>
+	<string name="milestone_consolidation_description">당신의 정착지의 인구가 100명을 도달하십시오.</string>
+
+</strings>

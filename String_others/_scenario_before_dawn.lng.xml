@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="scenario_before_dawn">새벽 전</string>
+	<string name="scenario_before_dawn_subtitle">극한</string>
+	<string name="scenario_before_dawn_description">구석기 시대의 정착지를 건설합니다. 사용할 수 있는 기술을 거의 없습니다.</string>
+	<string name="scenario_before_dawn_context">약 2만 2천년 전, 마지막 빙하는 절정에 달했습니다. 대부분의 세상은 얼음으로 덮여있었고 삶은 매우 가혹했습니다.</string>
+	
+	<string name="goal_before_dawn_main">인구 50에 도달해야합니다.</string>	
+	
+	<string name="before_dawn_well_done">잘하셨습니다.</string>	
+	<string name="before_dawn_completed">당신은 시나리오에서 생존했습니다.</string>		
+</strings>
