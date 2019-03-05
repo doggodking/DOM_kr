@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <strings>
 
-	<string name="achievement_completed">업적 완료: (1)</string>
+	<string name="achievement_completed">도전과제 완료: (1)</string>
 
-	<string name="achievement_launch_forth">이제 시작</string>
-	<string name="achievement_launch_forth_description">게임을 실행</string>
+	<string name="achievement_launch_forth">시작하기</string>
+	<string name="achievement_launch_forth_description">게임 실행하기</string>
 	
 	<string name="achievement_ancient_apprentice">고대의 수습생</string>
 	<string name="achievement_ancient_apprentice_description">튜토리얼 완료</string>
 
 	<string name="achievement_ancient_miner">고대의 광부</string>
-	<string name="achievement_ancient_miner_description">신석기 시대에서 최소 3개의 광산을 확보</string>
+	<string name="achievement_ancient_miner_description">신석기 시대에서 최소 3개의 광산을 고갈</string>
 
 	<string name="achievement_massive_hunter">거대한 사냥꾼</string>
 	<string name="achievement_massive_hunter_description">매머드 사냥</string>
@@ -25,13 +25,13 @@
 	<string name="achievement_steel_master_description">한 번의 게임에서 10개의 철검 생산</string>
 	
 	<string name="achievement_hardened_survivor">하드 코어 생존자</string>
-	<string name="achievement_hardened_survivor_description">하드 코어 모드에서 5단계 완료</string>
+	<string name="achievement_hardened_survivor_description">하드 코어 모드에서 도전과제 5개 완료</string>
 
 	<string name="achievement_completion">완성</string>
-	<string name="achievement_completion_description">모든 단계 완료</string>	
+	<string name="achievement_completion_description">모든 모전과제 완료</string>	
 
 	<string name="achievement_ultimate_completion">최고의 완성</string>
-	<string name="achievement_ultimate_completion_description">하드 코어 모드에서 모든 단계 완료</string>
+	<string name="achievement_ultimate_completion_description">하드 코어 모드에서 모든 도전과제 완료</string>
 
 	<string name="achievement_settlement1">대륙의 개척자</string>
 	<string name="achievement_settlement1_description">Continental Dawn 시나리오에서 인구 50명 달성</string>
