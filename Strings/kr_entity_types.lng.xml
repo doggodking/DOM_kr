@@ -33,9 +33,9 @@
 	<string name="animal_boar">멧돼지</string>
 	<string name="animal_aurochs">오록스</string>
 	<string name="animal_cattle">소</string>
-	<string name="animal_wild_horse">야생말</string>
+	<string name="animal_wild_horse">야생마</string>
 	<string name="animal_horse">말</string>
-	<string name="animal_wild_donkey">야생 당나귀</string>
+	<string name="animal_wild_donkey">야생당나귀</string>
 	<string name="animal_donkey">당나귀</string>
 	
 	<!-- Structures -->
@@ -44,7 +44,7 @@
 	<string name="structure_storage_tent">천막창고</string>
 	<string name="structure_wood_pile">목재 더미</string>
 	<string name="structure_haystack">건초 더미</string>
-	<string name="structure_rock_pile">돌 더미</string>
+	<string name="structure_rock_pile">석재 더미</string>
 	<string name="structure_crafter">제작공방</string>
 	<string name="structure_food_dryer">식품 건조대</string>
 	<string name="structure_skins_dryer">가죽 건조대</string>
@@ -74,15 +74,15 @@
 	<string name="structure_menhir">선돌</string>
 	<string name="structure_dolmen">고인돌</string>
 	<string name="structure_stone_circle">스톤서클</string>
-	<string name="structure_palisade">목채</string>
+	<string name="structure_palisade">울타리</string>
 	<string name="structure_wall">담</string>
 	<string name="structure_gate">입구</string>
-	<string name="structure_reinforced_gate">강화된 입구</string>
-	<string name="structure_watchtower">탑</string>
+	<string name="structure_reinforced_gate">개량된 입구</string>
+	<string name="structure_watchtower">망루</string>
 	<string name="structure_guard_tower">파수탑</string>
 	<string name="structure_brewery">양조장</string>
 	<string name="structure_watermill">물레방아</string>
-	<string name="structure_oven">오븐</string>
+	<string name="structure_oven">화덕</string>
 	<string name="structure_bridge">다리</string>
 
 	<!-- Resources -->
@@ -97,11 +97,11 @@
 	<string name="resource_flint_pick">부싯돌 곡괭이</string>
 	<string name="resource_flint">부싯돌</string>
 	<string name="resource_sticks">나뭇가지</string>
-	<string name="resource_berries">딸기</string>
+	<string name="resource_berries">베리</string>
 	<string name="resource_fruit">과일</string>
 	<string name="resource_nuts">견과</string>
 	<string name="resource_raw_skin">생가죽</string>
-	<string name="resource_raw_meat">생고기</string>
+	<string name="resource_raw_meat">날고기</string>
 	<string name="resource_bone">뼈</string>
 	<string name="resource_cured_meat">보존 육류</string>
 	<string name="resource_dry_skin">건조가죽</string>
@@ -112,8 +112,8 @@
 	<string name="resource_grain">곡물</string>
 	<string name="resource_flour">밀가루</string>
 	<string name="resource_bread">빵</string>
-	<string name="resource_waterskin">수통</string>
-	<string name="resource_stone">돌</string>
+	<string name="resource_waterskin">가죽부대</string>
+	<string name="resource_stone">석재</string>
 	<string name="resource_charcoal">숯</string>
 	<string name="resource_copper_ore">구리 광석</string>
 	<string name="resource_tin_ore">주석 광석</string>
@@ -126,7 +126,7 @@
 	<string name="resource_composite_bow">개량활</string>
 	<string name="resource_straw">짚</string>
 	<string name="resource_mud">진흙</string>
-	<string name="resource_sling">새총</string>
+	<string name="resource_sling">밧줄</string>
 	<string name="resource_tannin">타닌</string>
 	<string name="resource_copper_spear">구리 창</string>
 	<string name="resource_copper_axe">구리 도끼</string>
@@ -198,7 +198,7 @@
 	<string name="tech_tanning">무두질</string>
 	<string name="tech_weaving">제직</string>
 	<string name="tech_sledgemaking">짐썰매 제작</string>
-	<string name="tech_stilting">죽마기</string>
+	<string name="tech_stilting">기둥</string>
 	<string name="tech_wheel">바퀴</string>
 	<string name="tech_spirituality">영성</string>
 	<string name="tech_megalithism">거석기념물</string>
@@ -206,7 +206,7 @@
 	<string name="tech_hydropower">수력 발전</string>
 	<string name="tech_baking">베이킹</string>
 
-	<string name="tech_slingmaking">짐썰매 제작</string>
+	<string name="tech_slingmaking">밧줄 제작</string>
 	<string name="tech_archery">양궁</string>
 	<string name="tech_fortifications">요새화</string>
 	<string name="tech_swordmaking">검 제작</string>
@@ -216,14 +216,14 @@
 	<!-- Transports -->
 	<string name="transport_sledge">짐썰매</string>
 	<string name="transport_cart">손수레</string>
-	<string name="transport_rolling_megalith">거석 굴리기</string>
+	<string name="transport_rolling_megalith">거석 굴림대</string>
 
 	<!-- Misc -->
 	<string name="bank">물길</string>
 
 	<!-- Trees -->
-	<string name="tree_young_broadleaf">묘목</string>
-	<string name="tree_young_conifer">묘목</string>
+	<string name="tree_young_broadleaf">어린 활엽수</string>
+	<string name="tree_young_conifer">어린 침엽수</string>
 
 	<string name="tree_oak">참나무</string>
 	<string name="tree_pine">소나무</string>
