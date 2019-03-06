@@ -14,5 +14,5 @@
 	<string name="goal_pending">Pending</string>
 	<string name="goal_completed">Completed</string>	
 	
-	<string name="speed_hint">숫자 (timescale8_key) 를 눌러 게임속도를 8배속으로 올리시오.</string>	
+	<string name="speed_hint">Use button or press (timescale8_key) to set game speed to 8x.</string>	
 </strings>
