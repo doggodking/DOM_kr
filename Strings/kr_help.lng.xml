@@ -20,7 +20,7 @@
 	<string name="help_related_resources">관련 자원</string>
 	<string name="help_production">제작 자원</string>
 	<string name="help_byproducts">제작 자원</string>
-	<string name="help_domestic_variant">사육 변종</string>
+	<string name="help_domestic_variant">가축 변종</string>
 	<string name="help_wild_variant">야생 변종</string>
 	<string name="help_domestication_tech">사육 기술</string>
 	<string name="help_crafted_from">제작 시설</string>
